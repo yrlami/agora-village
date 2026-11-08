@@ -610,7 +610,7 @@
       "color" : "#D9485F",
       "emoji" : "📊",
       "id" : "consulting",
-      "isNew" : true,
+      "isNew" : false,
       "items" : [
         {
           "date" : "2026-11-08T10:01:43Z",
@@ -1817,7 +1817,7 @@
     "stock",
     "economy"
   ],
-  "updated" : "2026-11-08T10:59:55Z",
+  "updated" : "2026-11-08T11:00:04Z",
   "weather" : {
     "code" : 51,
     "isDay" : false,
