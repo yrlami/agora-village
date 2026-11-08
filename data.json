@@ -610,7 +610,7 @@
       "color" : "#D9485F",
       "emoji" : "📊",
       "id" : "consulting",
-      "isNew" : true,
+      "isNew" : false,
       "items" : [
         {
           "date" : "2026-11-08T14:14:55Z",
@@ -1818,9 +1818,10 @@
   "stampsToday" : [
     "stock",
     "tech",
-    "chip"
+    "chip",
+    "consulting"
   ],
-  "updated" : "2026-11-08T15:41:00Z",
+  "updated" : "2026-11-08T15:41:11Z",
   "weather" : {
     "code" : 2,
     "isDay" : false,
