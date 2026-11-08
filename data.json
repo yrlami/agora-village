@@ -12,7 +12,7 @@
       "color" : "#7B5CD6",
       "emoji" : "🪙",
       "id" : "economy",
-      "isNew" : true,
+      "isNew" : false,
       "items" : [
         {
           "date" : "2026-11-08T09:34:00Z",
@@ -1814,9 +1814,10 @@
     "chip",
     "philosophy",
     "tech",
-    "stock"
+    "stock",
+    "economy"
   ],
-  "updated" : "2026-11-08T10:59:32Z",
+  "updated" : "2026-11-08T10:59:44Z",
   "weather" : {
     "code" : 51,
     "isDay" : false,
