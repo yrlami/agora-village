@@ -600,13 +600,17 @@
       "y" : 1080
     },
     {
+      "briefing" : {
+        "date" : "2026-11-08T10:55:08Z",
+        "text" : "결론부터 말씀드리죠, 오늘 펠리의 집 우편함에 들어온 소식 중 놓치면 안 될 다섯 가지를 추렸습니다.\n\n• AI가 사이버 공격을 빠르게 만든다 — 맥킨지는 AI 도구가 전 세계 사이버 공격 위험을 키우고 있다고 경고했습니다. 기업에는 자동 탐지와 감독 체계를 갖추라고 권고했고, 보안 체계를 전면 재점검해야 한다는 취지입니다. 공격 속도가 빨라지면 사람이 수작업으로 대응하는 방식으로는 따라가기 어렵다는 뜻이라 중요합니다. [BW Businessworld](https:\/\/news.google.com\/rss\/articles\/CBMiuwFBVV95cUxQaGhSbWpXR1JjRlNlQmRUYml4dTMwWFVWY0NyT2ZwWW1sd3cyN0NpTEFCOFlXd1owaEJxZ05qaWZjRlZoNWhnSWo2VlJBTTdKMFlYTzdNX0NMc0F1U3BwTll2YXl6Zy1lMEh4aHNYU0Z0aFVoNjZ6MERDcnBTVUNCSXZhcmRhZkZzdXRsVHFfMldjVmFhM3Y5b1VBV3VOb1V1SE1vbmVIYkxhTXh5Y3VWTkd6QUIzd2VRRVRv?oc=5)\n\n• 금융사 대주주 심사, 위법 이력만으론 부족 — 금융연구원은 대주주 심사에 위법 이력뿐 아니라 평판과 전문성도 반영해야 한다고 제안했습니다. 핀테크와 가상자산 업계의 금융 진입에 대비해야 한다는 취지입니다. 새로운 업종이 금융에 들어올수록 누가 주인이 되느냐가 더 중요해지기 때문입니다. [전자신문](https:\/\/news.google.com\/rss\/articles\/CBMiTkFVX3lxTE1kZmswZ2l6TmFya2VvcnBadDlsNy11R2EtTkN3c1FPN2VTSGpkYmhLYkxSU2xWMHJMZllXemlmQldUeE9TV3hlWkt5VHpFUQ?oc=5)\n\n• 엔비디아 H200 칩, 사무실이 비어 있는 중국 기업에도 승인 — 미국 상무부가 엔비디아 H200 칩을 취급할 중국 기업 수십 곳을 승인했습니다. 그중 일부는 사무실이 비어 있고, 국가 안보 문제로 제재받는 기업과 연관된 곳도 있다고 합니다. 승인 심사가 제대로 작동하는지 묻게 하는 사안입니다. [NYT](https:\/\/www.nytimes.com\/2026\/11\/07\/business\/economy\/nvidia-chips-chinese-firms.html)\n\n• 로펌의 AI 에이전트에도 배상책임보험을? — AI 로펌 크로스비가 자사 AI 에이전트를 위한 업무상 과실 배상책임보험에 가입했습니다. 주요 보험사들이 AI 관련 위험을 어떻게 다룰지 고심하는 가운데, 보장 공백이 생기고 있음을 보여 주는 움직임이라고 합니다. AI가 낸 실수의 책임을 누가 지는지가 비즈니스 현안이 되고 있다는 신호입니다. [NYT](https:\/\/www.nytimes.com\/2026\/11\/07\/business\/dealbook\/crosby-ai-agent-liability-malpractice-insurance.html)\n\n• 10월 실업률 하락, 탄탄한 고용 시장 — 미국의 10월 실업률이 떨어졌고, 고용 시장이 수년째 안정세를 이어 가고 있다고 합니다. 인플레이션과 인공지능의 위협이 있는데도 고용이 버티고 있다는 점이 눈에 띕니다. 다만 이번 자료만으로는 세부 수치까지는 알 수 없습니다. [NYT](https:\/\/www.nytimes.com\/2026\/11\/06\/business\/economy\/economy-jobs-unemployment.html)\n\n생각거리: AI 에이전트가 일을 대신하는 시대에, 실수의 책임은 만든 회사, 쓰는 회사, 보험사 중 누가 져야 할까요?"
+      },
       "chat" : [
 
       ],
       "color" : "#D9485F",
       "emoji" : "📊",
       "id" : "consulting",
-      "isNew" : false,
+      "isNew" : true,
       "items" : [
         {
           "date" : "2026-11-08T10:01:43Z",
@@ -1491,7 +1495,7 @@
       "color" : "#2E2A38",
       "emoji" : "🔬",
       "id" : "chip",
-      "isNew" : true,
+      "isNew" : false,
       "items" : [
         {
           "date" : "2026-11-08T10:23:00Z",
@@ -1790,9 +1794,10 @@
 
   ],
   "stampsToday" : [
-    "consulting"
+    "consulting",
+    "chip"
   ],
-  "updated" : "2026-11-08T10:55:08Z",
+  "updated" : "2026-11-08T10:55:15Z",
   "weather" : {
     "code" : 51,
     "isDay" : false,
