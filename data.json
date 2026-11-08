@@ -12,7 +12,7 @@
       "color" : "#7B5CD6",
       "emoji" : "🪙",
       "id" : "economy",
-      "isNew" : true,
+      "isNew" : false,
       "items" : [
         {
           "date" : "2026-11-08T11:19:00Z",
@@ -1823,7 +1823,7 @@
     "stock",
     "economy"
   ],
-  "updated" : "2026-11-08T12:17:59Z",
+  "updated" : "2026-11-08T12:18:15Z",
   "weather" : {
     "code" : 53,
     "isDay" : false,
