@@ -311,7 +311,7 @@
       "color" : "#3B8FE0",
       "emoji" : "⚙️",
       "id" : "tech",
-      "isNew" : true,
+      "isNew" : false,
       "items" : [
         {
           "date" : "2026-11-08T09:56:07Z",
@@ -1812,9 +1812,10 @@
   "stampsToday" : [
     "consulting",
     "chip",
-    "philosophy"
+    "philosophy",
+    "tech"
   ],
-  "updated" : "2026-11-08T10:56:25Z",
+  "updated" : "2026-11-08T10:59:16Z",
   "weather" : {
     "code" : 51,
     "isDay" : false,
