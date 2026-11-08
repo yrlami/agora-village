@@ -1507,7 +1507,7 @@
       "color" : "#2E2A38",
       "emoji" : "🔬",
       "id" : "chip",
-      "isNew" : true,
+      "isNew" : false,
       "items" : [
         {
           "date" : "2026-11-08T14:57:28Z",
@@ -1817,9 +1817,10 @@
   },
   "stampsToday" : [
     "stock",
-    "tech"
+    "tech",
+    "chip"
   ],
-  "updated" : "2026-11-08T15:37:24Z",
+  "updated" : "2026-11-08T15:37:44Z",
   "weather" : {
     "code" : 2,
     "isDay" : false,
