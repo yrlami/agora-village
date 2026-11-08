@@ -1208,7 +1208,7 @@
       "color" : "#4FB3E8",
       "emoji" : "📈",
       "id" : "stock",
-      "isNew" : true,
+      "isNew" : false,
       "items" : [
         {
           "date" : "2026-11-08T10:37:00Z",
@@ -1813,9 +1813,10 @@
     "consulting",
     "chip",
     "philosophy",
-    "tech"
+    "tech",
+    "stock"
   ],
-  "updated" : "2026-11-08T10:59:16Z",
+  "updated" : "2026-11-08T10:59:32Z",
   "weather" : {
     "code" : 51,
     "isDay" : false,
