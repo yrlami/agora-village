@@ -1507,7 +1507,7 @@
       "color" : "#2E2A38",
       "emoji" : "🔬",
       "id" : "chip",
-      "isNew" : true,
+      "isNew" : false,
       "items" : [
         {
           "date" : "2026-11-09T04:09:00Z",
@@ -1823,7 +1823,7 @@
     "economy",
     "philosophy"
   ],
-  "updated" : "2026-11-09T04:30:44Z",
+  "updated" : "2026-11-09T04:30:52Z",
   "weather" : {
     "code" : 1,
     "isDay" : true,
