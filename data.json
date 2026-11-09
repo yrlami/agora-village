@@ -311,7 +311,7 @@
       "color" : "#3B8FE0",
       "emoji" : "⚙️",
       "id" : "tech",
-      "isNew" : true,
+      "isNew" : false,
       "items" : [
         {
           "date" : "2026-11-09T07:51:37Z",
@@ -1834,7 +1834,7 @@
     "economy",
     "philosophy"
   ],
-  "updated" : "2026-11-09T09:13:51Z",
+  "updated" : "2026-11-09T09:14:33Z",
   "weather" : {
     "code" : 0,
     "isDay" : false,
