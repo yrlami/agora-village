@@ -601,8 +601,8 @@
     },
     {
       "briefing" : {
-        "date" : "2026-11-08T10:55:08Z",
-        "text" : "결론부터 말씀드리죠, 오늘 펠리의 집 우편함에 들어온 소식 중 놓치면 안 될 다섯 가지를 추렸습니다.\n\n• AI가 사이버 공격을 빠르게 만든다 — 맥킨지는 AI 도구가 전 세계 사이버 공격 위험을 키우고 있다고 경고했습니다. 기업에는 자동 탐지와 감독 체계를 갖추라고 권고했고, 보안 체계를 전면 재점검해야 한다는 취지입니다. 공격 속도가 빨라지면 사람이 수작업으로 대응하는 방식으로는 따라가기 어렵다는 뜻이라 중요합니다. [BW Businessworld](https:\/\/news.google.com\/rss\/articles\/CBMiuwFBVV95cUxQaGhSbWpXR1JjRlNlQmRUYml4dTMwWFVWY0NyT2ZwWW1sd3cyN0NpTEFCOFlXd1owaEJxZ05qaWZjRlZoNWhnSWo2VlJBTTdKMFlYTzdNX0NMc0F1U3BwTll2YXl6Zy1lMEh4aHNYU0Z0aFVoNjZ6MERDcnBTVUNCSXZhcmRhZkZzdXRsVHFfMldjVmFhM3Y5b1VBV3VOb1V1SE1vbmVIYkxhTXh5Y3VWTkd6QUIzd2VRRVRv?oc=5)\n\n• 금융사 대주주 심사, 위법 이력만으론 부족 — 금융연구원은 대주주 심사에 위법 이력뿐 아니라 평판과 전문성도 반영해야 한다고 제안했습니다. 핀테크와 가상자산 업계의 금융 진입에 대비해야 한다는 취지입니다. 새로운 업종이 금융에 들어올수록 누가 주인이 되느냐가 더 중요해지기 때문입니다. [전자신문](https:\/\/news.google.com\/rss\/articles\/CBMiTkFVX3lxTE1kZmswZ2l6TmFya2VvcnBadDlsNy11R2EtTkN3c1FPN2VTSGpkYmhLYkxSU2xWMHJMZllXemlmQldUeE9TV3hlWkt5VHpFUQ?oc=5)\n\n• 엔비디아 H200 칩, 사무실이 비어 있는 중국 기업에도 승인 — 미국 상무부가 엔비디아 H200 칩을 취급할 중국 기업 수십 곳을 승인했습니다. 그중 일부는 사무실이 비어 있고, 국가 안보 문제로 제재받는 기업과 연관된 곳도 있다고 합니다. 승인 심사가 제대로 작동하는지 묻게 하는 사안입니다. [NYT](https:\/\/www.nytimes.com\/2026\/11\/07\/business\/economy\/nvidia-chips-chinese-firms.html)\n\n• 로펌의 AI 에이전트에도 배상책임보험을? — AI 로펌 크로스비가 자사 AI 에이전트를 위한 업무상 과실 배상책임보험에 가입했습니다. 주요 보험사들이 AI 관련 위험을 어떻게 다룰지 고심하는 가운데, 보장 공백이 생기고 있음을 보여 주는 움직임이라고 합니다. AI가 낸 실수의 책임을 누가 지는지가 비즈니스 현안이 되고 있다는 신호입니다. [NYT](https:\/\/www.nytimes.com\/2026\/11\/07\/business\/dealbook\/crosby-ai-agent-liability-malpractice-insurance.html)\n\n• 10월 실업률 하락, 탄탄한 고용 시장 — 미국의 10월 실업률이 떨어졌고, 고용 시장이 수년째 안정세를 이어 가고 있다고 합니다. 인플레이션과 인공지능의 위협이 있는데도 고용이 버티고 있다는 점이 눈에 띕니다. 다만 이번 자료만으로는 세부 수치까지는 알 수 없습니다. [NYT](https:\/\/www.nytimes.com\/2026\/11\/06\/business\/economy\/economy-jobs-unemployment.html)\n\n생각거리: AI 에이전트가 일을 대신하는 시대에, 실수의 책임은 만든 회사, 쓰는 회사, 보험사 중 누가 져야 할까요?"
+        "date" : "2026-11-09T04:31:03Z",
+        "text" : "오늘 들어온 자료 중에 중요한 것만 골랐어, 바로 정리할게.\n\n• 엔비디아 H200 칩, 수상한 중국 업체에 승인 — 미 상무부가 엔비디아 H200 칩을 다룰 수 있도록 중국 기업 수십 곳을 승인했는데, 일부는 사무실이 비어 있거나 국가안보 문제로 제재받는 업체와 연결돼 있어. 승인 대상의 실체가 불분명하다는 점에서 중요해.\n\n• 루비오, 젠슨 황과 중국 스파이의 관계를 경고 — 루비오 국무장관이 비밀 메모 작성에 관여했고, 올봄 이미 고위 관리들이 젠슨 황과 중국 스파이의 관계를 우려했던 것으로 드러났어. 미국 정부 내부의 우려가 어느 수준이었는지 보여줘서 중요해.\n\n• AI로 목소리를 흉내 낸 사기에 1억 2,900만 달러 피해 — 연방 기소장은 남성 세 명이 생성형 AI로 최고경영자와 변호사의 목소리를 흉내 내 기업들을 속였다고 주장해. 전화 속 상사 목소리도 믿기 어려워졌다는 점에서 기업의 본인 확인 절차를 다시 점검해야 해.\n\n• 심장약 두 종, 위약보다 나을 게 없었다 — 주목받던 심장약 두 가지가 전체 데이터 공개 결과 모든 측면에서 위약보다 나을 게 없었어. 연구 설계의 문제인지 가설 자체의 문제인지를 두고 의료계가 결과를 소화하는 중이라 중요해.\n\n• 이란 전쟁이 청정에너지와 화석연료를 함께 자극 — 국제 유가 충격으로 전기차 수요가 급증했고, 동시에 당장 확보할 수 있는 안정적 전력을 찾는 경쟁도 벌어지고 있어. 에너지 안보가 두 방향의 흐름을 동시에 끌고 간다는 점이 핵심이야.\n\n생각거리: 칩 수출 통제 같은 규제는 기업 구조가 복잡해질수록 어디까지 실효성을 가질 수 있을까?"
       },
       "chat" : [
 
@@ -610,7 +610,7 @@
       "color" : "#D9485F",
       "emoji" : "📊",
       "id" : "consulting",
-      "isNew" : false,
+      "isNew" : true,
       "items" : [
         {
           "date" : "2026-11-09T01:34:29Z",
@@ -1823,7 +1823,7 @@
     "economy",
     "philosophy"
   ],
-  "updated" : "2026-11-09T04:30:52Z",
+  "updated" : "2026-11-09T04:31:10Z",
   "weather" : {
     "code" : 1,
     "isDay" : true,
