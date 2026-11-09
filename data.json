@@ -1823,11 +1823,11 @@
     "economy",
     "philosophy"
   ],
-  "updated" : "2026-11-09T03:45:39Z",
+  "updated" : "2026-11-09T03:55:18Z",
   "weather" : {
     "code" : 1,
     "isDay" : true,
-    "temp" : 10.5
+    "temp" : 10.7
   },
   "weatherPlace" : "서울"
 }
