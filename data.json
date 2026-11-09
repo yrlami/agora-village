@@ -1507,7 +1507,7 @@
       "color" : "#2E2A38",
       "emoji" : "🔬",
       "id" : "chip",
-      "isNew" : true,
+      "isNew" : false,
       "items" : [
         {
           "date" : "2026-11-09T04:09:00Z",
@@ -1823,11 +1823,11 @@
     "economy",
     "philosophy"
   ],
-  "updated" : "2026-11-09T04:32:30Z",
+  "updated" : "2026-11-09T04:49:09Z",
   "weather" : {
     "code" : 1,
     "isDay" : true,
-    "temp" : 11.1
+    "temp" : 11.2
   },
   "weatherPlace" : "서울"
 }
