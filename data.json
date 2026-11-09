@@ -1208,7 +1208,7 @@
       "color" : "#4FB3E8",
       "emoji" : "📈",
       "id" : "stock",
-      "isNew" : true,
+      "isNew" : false,
       "items" : [
         {
           "date" : "2026-11-09T03:08:00Z",
@@ -1823,11 +1823,11 @@
     "economy",
     "philosophy"
   ],
-  "updated" : "2026-11-09T04:05:20Z",
+  "updated" : "2026-11-09T04:07:50Z",
   "weather" : {
     "code" : 1,
     "isDay" : true,
-    "temp" : 10.7
+    "temp" : 10.8
   },
   "weatherPlace" : "서울"
 }
