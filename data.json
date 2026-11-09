@@ -12,14 +12,35 @@
       "color" : "#7B5CD6",
       "emoji" : "🪙",
       "id" : "economy",
-      "isNew" : false,
+      "isNew" : true,
       "items" : [
         {
-          "date" : "2026-11-09T03:03:00Z",
-          "link" : "https:\/\/news.google.com\/rss\/articles\/CBMiW0FVX3lxTE9MQ29STmYtM2NTTjl5dXoyaEVyVlp2V0xlLUJpMGZKaVZTWUczSmQ0dkF0SzNzNjdUelVfYndEQ3dMWFI5UW0zMkwtWnNxX1BrTndmUExjbHdFSlU?oc=5",
+          "date" : "2026-11-09T04:17:10Z",
+          "link" : "https:\/\/news.google.com\/rss\/articles\/CBMi1gFBVV95cUxNeVctWG5sVHZodkdKQjVQa3V1UENET1ZKQ0N3bTNLQlFnX1hRNGx0dTZsSzZWQkNtaEQzampSeUl5bVNBVXNQNnFkaTFwUUxYQ0FDRWFvcElzRU9PWkJLMjhzOTNtNUpDWTBMWG9XR1hweHlacUZjUEMyTXBNQ0dtbXlMMGJCd3NKdHQ4cjItTTlxUlN6Nlp0cVdJQXF4Vk12YkY1MUN3UHd0dGNRcE9zS3JFQ01nYi15RzBJREIxLXRIYXpmSVVQSHpjY1JpODNGYU90Uy1R?oc=5",
           "source" : "경제 뉴스",
-          "summary" : "공정위, 배달앱 ‘부당행위’ 제재…3천억 원대 과징금 부과 KBS 뉴스 배달앱 '꼼수' 6천억 원대 과징금...배민 3,311억·쿠팡 3,008억 부과 YTN 점주에 음식값·할인 혜택 강요, 거부시 멤버십 박탈…'최혜대우 요구' 배민 3311억, 쿠팡 3008억 과징금 아시아경제 배달앱 불공정행위 제재 서울Pn 공정위 “사실상 담합”… 배달앱에 법정상한 과징금 문화일보",
-          "title" : "공정위, 배달앱 ‘부당행위’ 제재…3천억 원대 과징금 부과 - KBS 뉴스"
+          "summary" : "日, 환율 방어에 7월 30일 하루 68조원 투입…사상 최대 개입 한국무역협회-KITA.NET 일본, 환율 방어에 7월 30일 하루 68조 원 투입 YTN '엔저 막아라' 日, 7월30일 '사상 최대' 68조원 투입 - 머니투데이 머니투데이 日당국, 7월30일 하루에 68조원 투입해 환율방어…사상 최대 뉴시스 달러 버금가는 기축통화, 엔화 주목할 때 신동아",
+          "title" : "日, 환율 방어에 7월 30일 하루 68조원 투입…사상 최대 개입 - 한국무역협회-KITA.NET"
+        },
+        {
+          "date" : "2026-11-09T04:12:18Z",
+          "link" : "https:\/\/news.google.com\/rss\/articles\/CBMicEFVX3lxTFBsREtweUJZQlhCUktxYWk3TF93Zm9KTHl6djQ3Yzd4c1JjWllIWGxXZUJobmd0bVlwOUJzVXhiUkp2MjJoMVNxZ1J6YzNDc0paek1SRFluSnpNQXM5QnVtUzZPUjhwbk5aODBwSDM2WVo?oc=5",
+          "source" : "경제 뉴스",
+          "summary" : "대외금리 상승·증시 반등에 약세…국고 3년 3.7bp↑ 연합인포맥스 국고채 금리 일제히 상승…3년물 장중 연 3.652% 매일경제 마켓 美 데이터센터 규제 쇼크에 국채금리 뚝 … 한은 '11월 인상' 브레이크 걸리나 뉴데일리 채권금리 빠르게 내렸지만…'추격 매수냐 관망이냐' 채권시장 신중 연합뉴스 美 금리 하락에 '국채 발행 축소' 압박 약해지나 마켓인",
+          "title" : "대외금리 상승·증시 반등에 약세…국고 3년 3.7bp↑ - 연합인포맥스"
+        },
+        {
+          "date" : "2026-11-09T03:09:00Z",
+          "link" : "https:\/\/news.google.com\/rss\/articles\/CBMiW0FVX3lxTFBDa1Zuc1VRcWtYNm40Z0pkSXViVmc2OVAwREh0Ukp5NGR0NXd1ck5mUVJOWURZQ2ZUQmNwc19peEwtZTFsSDV2R1FWU3NzOUpLUEpGUWxGSHVrTUk?oc=5",
+          "source" : "경제 뉴스",
+          "summary" : "‘배달앱 불공정’ 배민·쿠팡 과징금 각각 3천여 억 원 KBS 뉴스 공정위, ‘최혜대우 요구 갑질’ 배민·쿠팡에 과징금 6319억원 ‘철퇴’ 한겨레 배달앱 불공정행위 제재 서울Pn \"다른 앱서 싸게 팔지 마\"…배민·쿠팡이츠에 과징금 6319억 네이트 황원철 공정위 상임위원, 배달앱 불공정행위 제재 브리핑 뉴시스",
+          "title" : "‘배달앱 불공정’ 배민·쿠팡 과징금 각각 3천여 억 원 - KBS 뉴스"
+        },
+        {
+          "date" : "2026-11-09T03:06:00Z",
+          "link" : "https:\/\/news.google.com\/rss\/articles\/CBMicEFVX3lxTE1lcGpFNlpENEstZTM1dHExOWdDWVRMbzJQS0tGMVNRYUV2U09BTVlwZU5zck1NOHQ4YVZqNzNORVgyTy14MmpfNG82cklOMzVnc2w1ejYtSFZ5QW5Rd2MzOEpqWGQ0bExoUUlyNXRDcFI?oc=5",
+          "source" : "경제 뉴스",
+          "summary" : "잘나가던 이재석號 카페24에 무슨 일이...이익 뒷걸음, 주가 내리막 By EBN Investing.com 한국어 카페24 사업 변천사, 2002년 호스팅 시작… 판매 지원 매출 89% 이코노미톡뉴스 카페24 3분기 매출 늘고 영업이익 41.6% 감소 비건뉴스 카페24, 3분기 영업이익 59억원…41.6%↓ 연합뉴스",
+          "title" : "잘나가던 이재석號 카페24에 무슨 일이...이익 뒷걸음, 주가 내리막 By EBN - Investing.com 한국어"
         },
         {
           "date" : "2026-11-09T02:48:00Z",
@@ -29,25 +50,32 @@
           "title" : "전세사기 피해자 보증금 3분의 1 보장…10일부터 지원금 신청 - 연합뉴스TV"
         },
         {
+          "date" : "2026-11-09T02:40:34Z",
+          "link" : "https:\/\/news.google.com\/rss\/articles\/CBMiVkFVX3lxTE1fQzVCM2d4eHhlWWVjTm5SdGlfSEFFbVFZcG04YVFvdkVUcUFoUl91M1BXVWdSaW9Fd0FGaXM2MEtHNEU0RGZJd2Y2RkZTRlNSd3U0c3Vn?oc=5",
+          "source" : "경제 뉴스",
+          "summary" : "LS머트리얼즈·LS일렉트릭, 차세대 전력망 기술 국산화 맞손 지디넷코리아 LS머트리얼즈·LS일렉, 차세대 전력망 안정화 기술 공동 개발 연합뉴스 [AIDC 투자 점검③] 빅테크 韓 투자 관심에도 전력망 걸림돌 연합인포맥스 미국은 71% 반대, 한국은 70% 찬성... AI 데이터센터의 '숨겨진 청구서' [자막뉴스] YTN LS머트리얼즈·LS일렉트릭, 차세대 전력망 안정화 '이스태콤' 개발 마켓인",
+          "title" : "LS머트리얼즈·LS일렉트릭, 차세대 전력망 기술 국산화 맞손 - 지디넷코리아"
+        },
+        {
+          "date" : "2026-11-09T02:38:04Z",
+          "link" : "https:\/\/news.google.com\/rss\/articles\/CBMidEFVX3lxTE5JNmJKWTMzS19iM0tpNkF2WTV3dzdVM1J0NFZYYkpmUzhlY21sWFRmU0MtWmQ0MmE4MU81eEMwWndFeW5oYnMwTXRfU0pIelhoUmRzcDZlWFEwMGtpTG1VN0l0RkxWWktBMFliYlo3ZFJrTGpz0gF0QVVfeXFMUGpUNk1iU2h4S3hiWVdFMzFQejVKRXRxSXoxN1VTNTNSUWc4V05fSjA5dDFfbXRncGNYcDJjMndiTDByVnYwQ2lLb29mbVY4ZDFndWlYclc4V1pNNVl4WXJydUt3cmllUXREc0FDd1dvYzhMd08?oc=5",
+          "source" : "경제 뉴스",
+          "summary" : "트럼프 \"젠슨 황은 훌륭한 사람‥중국 방문에 데려갈 것\" MBC 뉴스 “미 국무, ’젠슨황-中스파이 관계’ 기밀문건 작성 직접 감독“ 연합뉴스TV 트럼프, Nvidia 황 CEO를 \"명예로운 인물\"이라 칭찬…중국 의혹은 미논의 Investing.com 한국어 젠슨 황 \"연인 맞다\" 시인...이사회·의회 '동시 조사' 파장 YTN '깐부치킨'서 다진 AI동맹, 젠슨 황 스캔들에 불확실성 커지나 연합인포맥스",
+          "title" : "트럼프 \"젠슨 황은 훌륭한 사람‥중국 방문에 데려갈 것\" - MBC 뉴스"
+        },
+        {
+          "date" : "2026-11-09T02:36:00Z",
+          "link" : "https:\/\/news.google.com\/rss\/articles\/CBMicEFVX3lxTE9vNGdrejZIdHZMZU9FeEZrOTF0QTNpNkxuQXBLYWwzakxscTZJaUZkWkJtQWdaZlFud0lEN21XYUh1WldiZTkwSmhobkJLeEpyNXl4SXNacnNLYlg1VUE1LTVKYzJpWDlKX2txUkdTd18?oc=5",
+          "source" : "경제 뉴스",
+          "summary" : "알테오젠, 바이오 유럽서 기술수출 모색…하이브로자임 협력 확대 By EBN Investing.com 한국어 고바이오랩, ‘바이오 유럽 2026’ 참가 뉴스타운 나이벡, 비만·심신장질환 신약 앞세워 글로벌 기술이전 추진 팜이데일리 제일약품, '바이오 유럽 2026'서 당뇨·항암 파이프라인 기술수출 타진 전자신문 [리포트 브리핑]쓰리빌리언, '희귀질환 분야의 TempusAI' Not Rated - DS투자증권 뉴스핌",
+          "title" : "알테오젠, 바이오 유럽서 기술수출 모색…하이브로자임 협력 확대 By EBN - Investing.com 한국어"
+        },
+        {
           "date" : "2026-11-09T02:36:00Z",
           "link" : "https:\/\/news.google.com\/rss\/articles\/CBMicEFVX3lxTE9HMVRIZlROLWVHc0lrVXF3YlFUM2RfTTdKbEJvaWhrYzlLTjk3QTluS1FpWUpsRTlOOHpyOEhIR1VMNkN3OGJHVjk5Z3I1VTdDWWdTbUJ0OFRtLVZ1ZUp2R0pvdHhULUpTR0tjUmpPUTQ?oc=5",
           "source" : "경제 뉴스",
-          "summary" : "TSMC \"엔비디아 요청에 메모리 사업 진출 검토\" By EBN Investing.com 한국어 TSMC, 3D D램 진출설에 \"핵심 파운드리 사업 집중\" 부인 지디넷코리아 젠슨 황 리더십 치명상… 삼전닉스 HBM 생산·투자계획 차질 문화일보 [기획] 메모리 노리는 대만… 삼전닉스 ‘겹악재’ www.dt.co.kr \"TSMC, 메모리 진출 검토\"…TSMC \"파운드리에 집중\" 연합뉴스",
+          "summary" : "TSMC \"엔비디아 요청에 메모리 사업 진출 검토\" By EBN Investing.com 한국어 엔비디아 요청에 움직이는 TSMC...차세대 메모리 사업 진출 저울질 YTN 사이언스 TSMC, 3D D램 진출설에 \"핵심 파운드리 사업 집중\" 부인 지디넷코리아 \"TSMC, 메모리 진출 검토\"…TSMC \"파운드리에 집중\" 연합뉴스 [기획] 메모리 노리는 대만… 삼전닉스 ‘겹악재’ www.dt.co.kr",
           "title" : "TSMC \"엔비디아 요청에 메모리 사업 진출 검토\" By EBN - Investing.com 한국어"
-        },
-        {
-          "date" : "2026-11-09T02:35:00Z",
-          "link" : "https:\/\/news.google.com\/rss\/articles\/CBMicEFVX3lxTE5nSFlMTVByQUVOSHJ4MDFmSHRGRkdVX3A5LWdURzFHREx4Yld4aFlGUXFLRUZUeGF0ZmlqczZTdXkyUW5iRTFReHFFN3dXUmJVVVZiUkhKanBneENYaEQzOUtTMEYxMlJXV3VqOWdzN3I?oc=5",
-          "source" : "경제 뉴스",
-          "summary" : "삼성전자, 천장형 디지털 엑스레이 출시…AI로 촬영 효율 높인다 By EBN Investing.com 한국어 삼성전자, 의료현장 맞춤형 엑스레이 'GC85A 핏' 출시 지디넷코리아 삼성메디슨, 병원 공간활용 높이는 천장형 엑스레이 출시 주간한국 삼성전자, 공간 맞춤형 천장 엑스레이 출시…AI로 재촬영 줄인다 마켓인 삼성전자, 병원 맞춤형 엑스레이 출시…AI로 촬영 효율 높여 뉴스핌",
-          "title" : "삼성전자, 천장형 디지털 엑스레이 출시…AI로 촬영 효율 높인다 By EBN - Investing.com 한국어"
-        },
-        {
-          "date" : "2026-11-09T02:33:57Z",
-          "link" : "https:\/\/news.google.com\/rss\/articles\/CBMicEFVX3lxTE9lWUgzd1psRFF3cmxUa3VBaTgwTGdXV0hvS1lCQ3M3Ym90SGN3amhmYkphOUlkcWU5R3hRdTdtWlV3X3hoUS1wd1hLa2JZakRVeG13LVJGWjJiS2xxUEc1SGFVTEtJS0hfTGtSLWtfTUjSAXRBVV95cUxNNkFPZkZ6cDJVbWpQYzA2NnFHYURmdTljcDVNYV9uRnZyT1BHWkVENWIwSHBWaGljZzNRcWxJSHgyYkdDbk5FZ1pVYk94bk1CSHpLdDZwdS0teGpHdU5OcFp0Y09xZ3ZYWnRod09idUtJLUFPcw?oc=5",
-          "source" : "경제 뉴스",
-          "summary" : "ING \"美 고용 호조에 12월 금리 인상 유력…내년엔 장기 동결\" 연합인포맥스 \"10월 美 고용 호조, 12월 연준 인상 불씨 되살려\" 연합인포맥스 [원자재 시황] 미 고용 호조에 금·코인 하락 By EBN Investing.com 한국어 엔화, 美 고용통계 호조에 1달러=158엔대 중반 하락 출발 뉴시스 AI發 화이트칼라 실업대란?⋯美 법률ㆍ컨설팅 일자리 되레 증가 이투데이",
-          "title" : "ING \"美 고용 호조에 12월 금리 인상 유력…내년엔 장기 동결\" - 연합인포맥스"
         },
         {
           "date" : "2026-11-09T02:33:00Z",
@@ -57,32 +85,53 @@
           "title" : "에어프레미아, 톈진항공과 첫 연계운항…중국 환승 네트워크 확대 - 연합뉴스TV"
         },
         {
-          "date" : "2026-11-09T02:15:54Z",
-          "link" : "https:\/\/news.google.com\/rss\/articles\/CBMicEFVX3lxTFBQSUEwUmlJa1N4Vno2RGtEMmFxMXZBNzJjaVNFdExaaV9KZkRObHJWbVhNTXhSWER1WlZSV2pzM2dMTGo3a0lkcTZmZzdwM1pyN2JBZTBFbTRxWDZSanAwaVp5SGtqNmotWExYQjhZREw?oc=5",
+          "date" : "2026-11-09T02:20:10Z",
+          "link" : "https:\/\/news.google.com\/rss\/articles\/CBMicEFVX3lxTE84ZUpnM2ZjWi1uaEk5WFlvWVRoSHN3MGZCSnJ6eUhwVGI2eVdjb2tLU3JZN00xRGk4MldfZ2xPaTJxWFBOWWEzdlE0YVZuaUp2dnBaNlF5S3lwYTE2WTFMOXdQc2s4aDlRM2Y5R1F0YUs?oc=5",
           "source" : "경제 뉴스",
-          "summary" : "국채선물 약세 출발…美시장 반영 속 젠슨황 여파 주목 연합인포맥스 美 데이터센터 규제 쇼크에 국채금리 뚝 … 한은 '11월 인상' 브레이크 걸리나 뉴데일리 채권금리 빠르게 내렸지만…'추격 매수냐 관망이냐' 채권시장 신중 연합뉴스 美 금리 하락에 '국채 발행 축소' 압박 약해지나 마켓인 [김남현의 채권썰] 블루웨이브에 내달린 채권, 미 물가도 버틸까 이투데이",
-          "title" : "국채선물 약세 출발…美시장 반영 속 젠슨황 여파 주목 - 연합인포맥스"
+          "summary" : "금감원, '계열사 4곳 해킹' 미래에셋 현장점검 착수 연합인포맥스 \"AI 사이버 공격 일상화\"...대응 시스템 재설계 절실 YTN 사이언스 [기자수첩] 망분리 풀기 전에 적정성부터 검증해야 브릿지경제 “그룹 타깃 해킹 의심” 금감원, 미래에셋證 현장점검 서울경제 금융사 보안사고에 경영진 정조준… 첫 CEO 제재 나오나 - 머니투데이 머니투데이",
+          "title" : "금감원, '계열사 4곳 해킹' 미래에셋 현장점검 착수 - 연합인포맥스"
+        },
+        {
+          "date" : "2026-11-09T02:19:00Z",
+          "link" : "https:\/\/news.google.com\/rss\/articles\/CBMiWkFVX3lxTE11ZTR0TEVnM3NfM1AxNmxHTm0tLVFhX3pKQVB0NzVjT0d0eW9jTU5KeXUtcHdMNm43WmdyZy1Lbk9RUHJJbm5TcDhaUUlQZVNGRnNwckpXZlpEUQ?oc=5",
+          "source" : "경제 뉴스",
+          "summary" : "[리포트 브리핑]한미약품, '추가 기술이전에 MASH 임상 결과 서프(3Q26 Re)' 목표가 720,000원 - 하나증권 뉴스핌 비만약 '위고비', 지방간염 환자 체중 8.6㎏ 줄여…간 수치도 개선 뉴스1 한미약품, 증권사 목표가 상향에 강세…4.39% 매일경제 체중 정상이어도 위험… 세마글루티드, 저체중·정상체중 MASH 환자서 간 지표 개선 입증 한국의약통신 한미약품, 머크 MASH 치료제 임상 2b상 대성공에 3상 진입 '청신호'…\"위고비 대비 우수\" 프라임경제",
+          "title" : "[리포트 브리핑]한미약품, '추가 기술이전에 MASH 임상 결과 서프(3Q26 Re)' 목표가 720,000원 - 하나증권 - 뉴스핌"
         },
         {
           "date" : "2026-11-09T02:04:00Z",
           "link" : "https:\/\/news.google.com\/rss\/articles\/CBMiW0FVX3lxTFBvcnFxUHBRS05SRmY1NkYxWmVMVmFJNWFQbTNGbDNvZ2JVS3I2di1qeWVNNmlURDQ2eVJ3QkxtM3FweDg3NXN3ZDVROFYzYmU2alZ5dTFhYVFqZFk?oc=5",
           "source" : "경제 뉴스",
-          "summary" : "AI 목소리로 CEO·변호사 사칭해 송금 요구…1천700억원대 피해 KBS 뉴스 '당장 송금하라' CEO 가짜 목소리에 1,700억 털렸다 YTN \"당장 송금하라\"…사장님 AI 목소리에 속아 사기 당한 미 기업들 SBS 뉴스 \"즉시 송금\" AI 복제 사장 목소리에 덜컥…1,700억원 턴 일당 연합뉴스TV AI로 CEO 목소리 복제, 병원·은행서 1억2900만 달러 가로채 Martin Cid Magazine",
+          "summary" : "AI 목소리로 CEO·변호사 사칭해 송금 요구…1천700억원대 피해 KBS 뉴스 '당장 송금하라' CEO 가짜 목소리에 1,700억 털렸다 YTN '당장 송금하라' 사장 AI 목소리에 속아 1천700억원대 털려 연합뉴스 \"즉시 송금\" AI 복제 사장 목소리에 덜컥…1,700억원 턴 일당 연합뉴스TV AI로 CEO 목소리 복제, 병원·은행서 1억2900만 달러 가로채 Martin Cid Magazine",
           "title" : "AI 목소리로 CEO·변호사 사칭해 송금 요구…1천700억원대 피해 - KBS 뉴스"
         },
         {
           "date" : "2026-11-09T01:54:00Z",
           "link" : "https:\/\/news.google.com\/rss\/articles\/CBMicEFVX3lxTE1TV3R4dVlNSTFiWlRieGZxSFJIVDVwaW1UbkxMZDFhNk1mNktLSTBFZHB1TmhENjVHTkI2d1VXXzBNWXZxVDJRMXV3NGY3SWwtWGp1S0pKd1Y2S2ZEN3Zsc290cHVvOHFwaDBMWXl1d2M?oc=5",
           "source" : "경제 뉴스",
-          "summary" : "[엄브렐라] ’미국 데이터센터 45% 중단론’의 허상…착공 물량 아닌 서류상 허수였다 By 알파경제 alphabiz Investing.com 한국어 \"사막에 지어야 할지도\"…데이터센터 전략 다시 짜는 美 AI 기업들 지디넷코리아 美 데이터센터 규제 변수에 빅테크 \"아시아 간다\"…韓 통신·건설 반사이익 '현실화' 프라임경제 \"이러다 전기 다 빨린다\"…국가전력 30% 먹는 '흡혈귀' 정체 한국경제 텍사스 규제 '노이즈'에 가려진 빅테크의 길...호주·캐나다로 눈 돌린다 마켓인",
+          "summary" : "[엄브렐라] ’미국 데이터센터 45% 중단론’의 허상…착공 물량 아닌 서류상 허수였다 By 알파경제 alphabiz Investing.com 한국어 \"사막에 지어야 할지도\"…데이터센터 전략 다시 짜는 美 AI 기업들 지디넷코리아 美 데이터센터 규제 변수에 빅테크 \"아시아 간다\"…韓 통신·건설 반사이익 '현실화' 프라임경제 \"이러다 전기 다 빨린다\"…국가전력 30% 먹는 '흡혈귀' 정체 한국경제 유럽도 데이터센터 반대 확산...미 '블루 쓰나미' 타고 \"AI 규제\" YTN 사이언스",
           "title" : "[엄브렐라] ’미국 데이터센터 45% 중단론’의 허상…착공 물량 아닌 서류상 허수였다 By 알파경제 alphabiz - Investing.com 한국어"
         },
         {
           "date" : "2026-11-09T01:54:00Z",
-          "link" : "https:\/\/news.google.com\/rss\/articles\/CBMicEFVX3lxTFBEQ2RJUWN0a2l5SzVpS3pXUTVmaWZrMTd4WkNLT0pFLTU4eUg3RzdtOWdxaUlYWm9WbHR2eDc4SmxiNjlROFNNdmRNRGtUcnpMSEVSTUs1OFFpR2R2R3ROMDZMWjRhRzAxemZ5TUFSZDg?oc=5",
+          "link" : "https:\/\/news.google.com\/rss\/articles\/CBMicEFVX3lxTE9zdzhhRkZZb3FONlpZUEhYQ0x4a0M5dTh1LWJkUXlMdXlxN1NfbExoQWtnaTVZN3BaME5wamJwR3hQNUdxVVk4X3NiVmxOcVBCZjNwOWxnME8xNmZIQUpub3czdzlKcDREZ2k3ZTYxUkI?oc=5",
           "source" : "경제 뉴스",
-          "summary" : "김동선, 한화M&S 338만주 추가 공개매수…개인자금 270억원 투입 By 알파경제 alphabiz Investing.com 한국어 김동선, 한화M&S 보통주 4% 추가 공개매수…270억원 규모 연합뉴스 美 블루 쓰나미에 코스피 출렁…김동선, 왜 또 공개매수 나서나 뉴시스 [ET특징주]한화M&S, 김동선 지분 추가 공개매수에 상승세 전자신문 ’언행일치’ 김동선, 주가 떨어지자 한화M&S에 또 사재 270억 투입 By EBN Investing.com 한국어",
-          "title" : "김동선, 한화M&S 338만주 추가 공개매수…개인자금 270억원 투입 By 알파경제 alphabiz - Investing.com 한국어"
+          "summary" : "4대 은행, 내년 보안 투자 늘린다…신한 1150억·하나 1001억 By 알파경제 alphabiz Investing.com 한국어 4대 은행, 내년 정보보호 예산 '1000억 시대'…집행률·전문인력은 '빈틈' 전자신문 금융권 해킹·정보유출에 시중은행 보안투자 강화 천지일보 해킹 사고 잇따르자… 4대 은행 중 3곳, 내년 보안 예산 1000억원 넘긴다 조선일보 해킹 사태에 화들짝… 은행 보안예산 폭증 문화일보",
+          "title" : "4대 은행, 내년 보안 투자 늘린다…신한 1150억·하나 1001억 By 알파경제 alphabiz - Investing.com 한국어"
+        },
+        {
+          "date" : "2026-11-09T01:51:02Z",
+          "link" : "https:\/\/news.google.com\/rss\/articles\/CBMiakFVX3lxTFBfMENNRDNEdTl0emJYcTNmNkcwbTVocHRveF9FY1dMN0tOYUtaZjNWMlM4RXVqUlhtN1d5LWNyd21LY3N0QV9oX1BmS21nZEJiNUdYWmlfbnNnZzg4Ulh4WUF4dk1MVG9QUkE?oc=5",
+          "source" : "경제 뉴스",
+          "summary" : "'회계사들의 올림픽' 첫 한국 개최…WCOA 2026, 17일 개막 비즈워치 2026 세계회계사대회 오는 17일 서울서 개막…한공회 공동 개최 Chosunbiz '회계사들의 올림픽' 세계회계사대회, 17일 서울서 개막 뉴스1 뉴시스와 인터뷰 하는 최운열 공인회계사회장 뉴시스 '회계사들의 올림픽' WCOA 2026, 122년 역사상 첫 한국 개최 한국세정신문",
+          "title" : "'회계사들의 올림픽' 첫 한국 개최…WCOA 2026, 17일 개막 - 비즈워치"
+        },
+        {
+          "date" : "2026-11-09T01:42:00Z",
+          "link" : "https:\/\/news.google.com\/rss\/articles\/CBMihAFBVV95cUxPRzhua3NSQnAwdVVtaHAtVkZOQWQzNFFsMUlsV2xHZTJIN0dMZUwzbkJyMW9hcndtVmZpaGlYV1lDX0d1blh1MUktdmYzU2RveG5aQUxsc1dEeUNxOUxNMVUxUThmRkNMSThZeVowdjJyOTMxa0NQTDRkNWEzRTU1b0M2SFXSAZgBQVVfeXFMUGpIdUlONjZRZkNya1daR0pvdTlyMFhnZFpsNWtISGdrbkRUM0RpdjV6TjhxR1FfMzVlSmg1Y1V0QTVQZmx1QmJ5N2VoS2Jla09LTnF5SWYzdFctdWdWaHNuMGFqbkY3TTZjRkFQdVhyZF81alRLR2c0c1c5TWlNYTBnNXdtZmlaSDRzQ3J5Tm9BN3lWUEFZNTk?oc=5",
+          "source" : "경제 뉴스",
+          "summary" : "배터리 시장 판도 바뀐다… 韓은 美 ESS 성장에 ‘미소’, 中은 공급 과잉에 ‘울상’ Chosunbiz 1∼9월 배터리 음극재 적재량 21%↑…중국외 시장은 29%↑ 연합뉴스 中, 전기차 음극재 시장 96.6% 점유…전년비 1%p ↑ 지디넷코리아 중국 6사 비중국 배터리 점유율 56%…한국 3사는 주춤 글로벌이코노믹 전기차 배터리 양극재 사용량 22% 증가…중국계 점유율 87% 매일경제TV",
+          "title" : "배터리 시장 판도 바뀐다… 韓은 美 ESS 성장에 ‘미소’, 中은 공급 과잉에 ‘울상’ - Chosunbiz"
         },
         {
           "date" : "2026-11-09T01:34:00Z",
@@ -95,15 +144,8 @@
           "date" : "2026-11-09T01:33:00Z",
           "link" : "https:\/\/news.google.com\/rss\/articles\/CBMihAFBVV95cUxNc0xpV2FpZXZ2cHI0aWl5WTA3NDE4cDd2dHloWnM5Ym5XdG5pdHU0bDhqVktLRmE0Q25aUkZ2dy1Bc3dDNnRqOXlOMjV2VXl0dHYwNmFDZmRjb2JnTUJHYkpLbTIyaUtpT3c4V0Q1VlRNV1hXZmpiZDhQQVA5TXVKTkVyUDfSAZgBQVVfeXFMTmhrS2V4elZ2c1J2N01YX1QxZVlaenBQbTNHR1lSQ1pibmJITlhaNmljYTlvcGJKTTJ0bUU1ek9NR2UzOThQWW9qYnJ5NjdiS1RCRVhFdWlwaW94azBvVjFXWFFhTzNwNEhSbE00QmhBbWZUcTRxMjNwRGF5V2lFbFF1V2h2VXB3V0Q2dFlvd1RYeFhWMDQyT2c?oc=5",
           "source" : "경제 뉴스",
-          "summary" : "한화에어로, 천무 해상 사격 시험… 무인수상정 탑재 추진 Chosunbiz 한화에어로, 미국 해상서 천무 사격시험…오스탈USA 인수도 추진 연합뉴스TV 자주포 이어 美 해군 차기 호위함 수주까지…韓·日·英·튀르키예 ‘4파전’[이현호의 방산!톡] 서울경제 한화오션 미국 해군 중형상륙함 수주는 '빙산의 일각' 평가, \"한국 조선업체 유인할 추가 발주 필요\" 비즈니스포스트 한화에어로스페이스·디펜스USA, 美 해상 천무 사격시험…“美 시장 공략 전초전” 문화일보",
+          "summary" : "한화에어로, 천무 해상 사격 시험… 무인수상정 탑재 추진 Chosunbiz 한화에어로, 미국 해상서 천무 사격시험…오스탈USA 인수도 추진 연합뉴스TV 한화오션 미국 해군 중형상륙함 수주는 '빙산의 일각' 평가, \"한국 조선업체 유인할 추가 발주 필요\" 비즈니스포스트 자주포 이어 美 해군 차기 호위함 수주까지…韓·日·英·튀르키예 ‘4파전’[이현호의 방산!톡] 서울경제 육상서 바다로…한화, 美서 천무 선박 사격시험 지디넷코리아",
           "title" : "한화에어로, 천무 해상 사격 시험… 무인수상정 탑재 추진 - Chosunbiz"
-        },
-        {
-          "date" : "2026-11-09T01:26:41Z",
-          "link" : "https:\/\/news.google.com\/rss\/articles\/CBMiVEFVX3lxTE9TVUYtN1hRUHlNOEpVYmt4TFVRMGRrck5GUHAzbE5Nc0tGbkhIZXZfQkdEX0VlWHBPWDJsckVkTG42eWg2cnZZeXJEdkc1eERNTWJUTA?oc=5",
-          "source" : "경제 뉴스",
-          "summary" : "내년 금리는 어떻게 될까…“반도체 꺾이면 한은도 돌아선다” 씨티銀 분석 매일경제 씨티 \"반도체 꺾이면 금리인상 조기종료…내년 하반기 인하\" 연합뉴스 씨티 \"주가 하락에도 이달 기준금리 인상⋯반도체 급락시엔 내년 '피벗'\" 이투데이 [모닝 리포트] \"증시 급락에도 한은 금리인상 전망...이달 0.25%p↑ 예상\" 뉴스핌 씨티 \"반도체 꺾이면, 내년 하반기 금리인하…2028년 연 2.5%까지 낮출 수도\" 뉴시스",
-          "title" : "내년 금리는 어떻게 될까…“반도체 꺾이면 한은도 돌아선다” 씨티銀 분석 - 매일경제"
         },
         {
           "date" : "2026-11-09T01:14:33Z",
@@ -116,7 +158,7 @@
           "date" : "2026-11-09T01:12:00Z",
           "link" : "https:\/\/news.google.com\/rss\/articles\/CBMiiAFBVV95cUxQZUFNZ1pPRXpYV0xSNWdSbEExUGw1ZTcxdHJ4MzA2bHdock1MT1B6SkhudEdsbXF1eVl0aUctc2lVRVZLVzFBVDdPSUp6MGZSanpVVzVrVXk1NEZxMUtsYnpDNVg3QUZzODd6dXJKN1ZVMEc5ZzFJWl9aZmtWLTlTbDhieVRadGxB0gGcAUFVX3lxTFBkX0ZoUk9GX3Y3UXREQzh6YjJKaXNvam5PU2dZWjJBeWE0UURuR0gtSDZ2UEZJYjdiTm5oRlE1NUs1VXlRUkZOZFd6aE94cDhFVVJvLTRaTkJLWnlaOFl1eUU3aFpEbldlbVBib0o1R3hCZlJqaTc4bWs2LUJReDJqWUdWRXZuX1UteU5Pb0FOVUJXSDVKNlpQblhhVw?oc=5",
           "source" : "경제 뉴스",
-          "summary" : "반대매매 막으려다 증권사 손실 키우나…대신증권 노조 “책임 주체 명확히 해야” Chosunbiz ‘오천피’ 벼랑 끝…재경부, 이번주 증안펀드 꺼내나 대한경제 [단독] \"반대매매 보호? 신청고객만\" … 증권사-금융당국 '정책 엇박자' 뉴데일리 내일부터 ‘빚투’ 반대매매 숨통…증권사 담보비율 140% 의무 3개월 면제 경향신문 증시 급락에 '반대매매 유예'로 숨통…'빚투' 개미 한숨 돌리나 뉴시스",
+          "summary" : "반대매매 막으려다 증권사 손실 키우나…대신증권 노조 “책임 주체 명확히 해야” Chosunbiz ‘오천피’ 벼랑 끝…재경부, 이번주 증안펀드 꺼내나 대한경제 [단독] \"반대매매 보호? 신청고객만\" … 증권사-금융당국 '정책 엇박자' 뉴데일리 ‘빚투’ 청산 막고자 담보 비율 의무 면제해준 정부...시장 개입 실효성 논란, 빚투 증가 우려도 조선일보 내일부터 ‘빚투’ 반대매매 숨통…증권사 담보비율 140% 의무 3개월 면제 경향신문",
           "title" : "반대매매 막으려다 증권사 손실 키우나…대신증권 노조 “책임 주체 명확히 해야” - Chosunbiz"
         },
         {
@@ -127,17 +169,24 @@
           "title" : "현대모비스, ’청소년 공학 리더 페스티벌’…“창의 인재 양성“ - 연합뉴스TV"
         },
         {
-          "date" : "2026-11-09T01:02:58Z",
-          "link" : "https:\/\/news.google.com\/rss\/articles\/CBMiYEFVX3lxTE5RcnJ5bkRJemZ5ZDJMZnVYbkJwLVg4aG1hNjhUR3ZweHFxdmtJMXlxS3BlSUpKWk1KR3FYbElLWm5OWDVNYXJEX0d3bVU4VFVVamVncHpHdUY2QlN4ZktMRg?oc=5",
+          "date" : "2026-11-09T01:08:07Z",
+          "link" : "https:\/\/news.google.com\/rss\/articles\/CBMiW0FVX3lxTFBJeXFnNTFvZE5HUUhPcU1wTFhIZW5iekt4RWVrUzRXVEVIdHBIblVEUkRmNjVkclJDbDhEQy1QYkZ3Qmx0dW5tWjBZSjJmWWRyUXdyY1J5MVF3cms?oc=5",
           "source" : "경제 뉴스",
-          "summary" : "태평양 한가운데서 9시간 버텼다…크루즈서 추락한 피아니스트 극적 구조 아시아경제",
-          "title" : "태평양 한가운데서 9시간 버텼다…크루즈서 추락한 피아니스트 극적 구조 - 아시아경제"
+          "summary" : "KT＆G, 카자흐스탄에 궐련형 전자담배 직접사업 진출 연합뉴스 KT&G, 카자흐스탄서 궐련형 전자담배 직진출…해외 NGP 사업 박차 서울경제 [똑똑한유통] KT&G, 신세계백화점, 삼양그룹, KT알파 쇼핑, 알바몬, 이랜드복지재단, LG생활건강, 풀무원, 샘표 에너지경제신문 카자흐 직진출한 KT&G의 'K전자담배'…글로벌 NGP 역량 키운다 ER 이코노믹리뷰 KT&G, 카자흐스탄에 궐련형 전자담배 직진출…\"글로벌 NGP 사업 확장\" 아시아경제",
+          "title" : "KT＆G, 카자흐스탄에 궐련형 전자담배 직접사업 진출 - 연합뉴스"
+        },
+        {
+          "date" : "2026-11-09T01:07:18Z",
+          "link" : "https:\/\/news.google.com\/rss\/articles\/CBMicEFVX3lxTFB2WThZd1M5ekNUNG5tcUR5ZEVDbWtPVGVOMHkxLTQxUVRWWTVJS1ZUemlxV2Z1dGJXOE1PSFhpLXA1VEhPdG1jdTNzU216c21QSVQxZjhfeE5nZmswRkJLbVVxVkV0LXJaUENuTEJTMno?oc=5",
+          "source" : "경제 뉴스",
+          "summary" : "유진투자증권, 국내 첫 월정액 美주식 수수료 구독제 출시 연합인포맥스 유진투자증권, 美주식 수수료 월정액제 출시…월 49만원부터 뉴스핌 유진투자증권, 월정액 ‘미국주식 수수료 구독 서비스‘ 출시 브릿지경제 유진투자증권, 월정액으로 미국주식 거래…수수료 구독 서비스 출시 아시아경제 유진투자증권, 美주식 수수료 정액제 도입…월 99만원에 무제한 거래 뉴스1",
+          "title" : "유진투자증권, 국내 첫 월정액 美주식 수수료 구독제 출시 - 연합인포맥스"
         },
         {
           "date" : "2026-11-09T00:56:14Z",
           "link" : "https:\/\/news.google.com\/rss\/articles\/CBMidEFVX3lxTE5aZ0I1Q3dnQ2pBczJRZ2theTlwSm14TlhFaEt5MFpYdE9Bb0FzRzc4YWN1eEQ0MGVIUk1SSVl3QkVqalVYeUgtM3daa1YxYnVsQ05kQzFHcmJNTnBQOFI0YVBhTkxkRi1nZndzRGVWS2NSS0lV0gF0QVVfeXFMTm1Rc2ZDc0pNaUdHYXkzUnpWYWdzc21TRWttRTZrVHJ3aEVpb1BkZUpIZUdXXzJaX0ZCYngwUXRDRHcxdkMyUmFzcFQ1bVJDNFljNXowUDc0MUlVTm5KY09Sd0Z6VDE0WGxNYmVLdzNlYnBzaFc?oc=5",
           "source" : "경제 뉴스",
-          "summary" : "JTBC 오늘 매각 공고‥내년 1월 우선협상대상자 선정 MBC 뉴스 JTBC, 오늘 매각 공고…공개경쟁입찰로 새 주인 찾는다 By EBN Investing.com 한국어 JTBC, 매각 공고 게시…내년 1월 우협 선정 Chosunbiz 새 주인 찾는 JTBC, 오늘 매각 공고…\"내년 1월 우선협상자 선정\" 연합뉴스TV 새 주인 찾는 JTBC…매각 공고 게시 경향신문",
+          "summary" : "JTBC 오늘 매각 공고‥내년 1월 우선협상대상자 선정 MBC 뉴스 새 주인 찾는 JTBC…매각 공고 게시 경향신문 JTBC, 오늘 매각 공고…공개경쟁입찰로 새 주인 찾는다 By EBN Investing.com 한국어 JTBC, 공개입찰 돌입…내년 1월 우협 선정 이투데이 JTBC, 9일 공개매각 돌입…지분 규제에 '회사채 카드' 딜레마 [fn마켓워치] 파이낸셜뉴스",
           "title" : "JTBC 오늘 매각 공고‥내년 1월 우선협상대상자 선정 - MBC 뉴스"
         },
         {
@@ -151,15 +200,22 @@
           "date" : "2026-11-09T00:50:56Z",
           "link" : "https:\/\/news.google.com\/rss\/articles\/CBMicEFVX3lxTFBuY0pGaHQ0YVdaZ1ltQVU2MDdNZnlldGJvU3NBYVd4VWhvdzdXZFdkS3VzZWdEWkZjNWM1elNjSDZuaVN5aVBJcXVuQjJUZmNIU0ZRN3llMHdmSng4QldYQU9qWm5qWjhhaGtBRkhHOFjSAXRBVV95cUxPSkJyTWZQcEl5eUtsa0NSRHBKQndyQ1BZeTh0ODRBZDFQRkhQdWQ1NGQ5QW9FNG5meFh5RDQydWRuVGdnUUctcXVlaDJJVTJrUWVBVUc3UVRjQk81bnYxMkJNNnk4REZpaERQTDBjYVVMMjBtMg?oc=5",
           "source" : "경제 뉴스",
-          "summary" : "[신윤우의 외환분석] 반도체 되돌림 vs 美고용발 강달러 연합인포맥스 1350원대로 뛰며 ‘블루쓰나미’ 휩쓸린 환율…\"당분간 변동성 커질 듯\" 세계일보 美 연준 금리 인상 기대 상승에 원·달러, 1360원대 육박 뉴시스 iM증권 \"AI 조정에 원화 약세…증시 반등 땐 강세 전환\" 연합뉴스 ‘블루 쓰나미’에 환율도 요동 문화일보",
+          "summary" : "[신윤우의 외환분석] 반도체 되돌림 vs 美고용발 강달러 연합인포맥스 1350원대로 뛰며 ‘블루쓰나미’ 휩쓸린 환율…\"당분간 변동성 커질 듯\" 세계일보 [외환] 1,360원 위에서 쏟아진 네고…방향 살피며 1,350원대 후반으로 연합인포맥스 iM증권 \"AI 조정에 원화 약세…증시 반등 땐 강세 전환\" 연합뉴스 美 연준 금리 인상 기대 상승에 원·달러, 1360원대 육박 뉴시스",
           "title" : "[신윤우의 외환분석] 반도체 되돌림 vs 美고용발 강달러 - 연합인포맥스"
         },
         {
           "date" : "2026-11-09T00:50:22Z",
           "link" : "https:\/\/news.google.com\/rss\/articles\/CBMicEFVX3lxTE54U1dfMG1mUU5IQTdGTENKX0N0TFhIbkw1OUx5ZnRSeWNQYlJSYi1xOFhDTU1FcUdoZWJsY2hWY1dCX2ItTldBajd6cG1mZUtHdlAyYk84cFZIS0NuRzVBTjVHVkxpSXk5ZkZjakJOUzY?oc=5",
           "source" : "경제 뉴스",
-          "summary" : "국토부, 가덕도신공항 부지조성공사 실시설계 착수 연합인포맥스 공사비 갈등 가덕도신공항 다시 본궤도…국토부·대우 컨소, 실시설계 착수 아시아경제 가덕도신공항 2035년 개항 목표…부지조성공사 실시설계 착수 지디넷코리아 가덕도신공항 건설 다시 속도…내년 상반기 본공사 착공 더팩트 가덕도신공항 9일 부지조성공사 실시설계 착수 국제신문",
+          "summary" : "국토부, 가덕도신공항 부지조성공사 실시설계 착수 연합인포맥스 가덕도신공항 부지조성 실시설계 착수…내년 상반기 본공사 착공 연합뉴스 가덕도신공항 실시설계 착수…공사비 갈등 속 ‘2035년 개항’ 불씨 살리나 서울경제 국토부, 가덕도신공항 부지조성공사 실시설계 착수 - 머니투데이 머니투데이 가덕신공항 실시설계 우선 착수…공사비 증액 확약은 ‘안갯속’ 부산일보",
           "title" : "국토부, 가덕도신공항 부지조성공사 실시설계 착수 - 연합인포맥스"
+        },
+        {
+          "date" : "2026-11-09T00:50:00Z",
+          "link" : "https:\/\/news.google.com\/rss\/articles\/CBMigwFBVV95cUxQRldSSXNfazBEMWI1RVdfdXV6NXRiTnEtU0NTX3M5RVozSnhpRnd2WlN2Nk05NTduMkdQekhkclZRbVFIeHFXTGg5aWxTNmJXV25LcUlFaEp1M29URF92X0o4MzgtYTNXWWp5eVdoWXBKR3lSclFzUVdmWDZyNjJOaEszbw?oc=5",
+          "source" : "경제 뉴스",
+          "summary" : "삼성바이오, 세계 1위 항암제 ‘키트루다’ 복제약 임상 3상서 동등성 확인 조선일보 삼성바이오에피스, 키트루다 시밀러 3상서 동등성 확인 브릿지경제 삼성바이오에피스, 미국 면역항암학회서 '키트루다' 바이오시밀러 임상3상 결과 발표 비즈니스포스트 삼성바이오에피스 'SB27', 글로벌 3상서 키트루다와 동등성 입증 - 머니투데이 머니투데이 “임상 끝났어도 환자들 치료는 계속”…삼성에피스, 고가항암제 무상 지원 서울경제",
+          "title" : "삼성바이오, 세계 1위 항암제 ‘키트루다’ 복제약 임상 3상서 동등성 확인 - 조선일보"
         },
         {
           "date" : "2026-11-09T00:49:49Z",
@@ -179,15 +235,8 @@
           "date" : "2026-11-09T00:45:00Z",
           "link" : "https:\/\/news.google.com\/rss\/articles\/CBMiiAFBVV95cUxQMTBhYlNNLXJDeHgzMGQydFpzMmZjQnBLcDNvRG5NRk1pUzdvSkNfaC1DM3poUnNQYi1jd2E5a0VnSFo5cngyN3BrNWV0MGtxN2RZazBnUnZ5OWdkQUVnUURmWnpOQmJEX3FBVGFNSnluWXFuOWE1T0s3bGI5NHFkSlhSUEpBX0gy0gGcAUFVX3lxTE9nRUYyQVpVdUhveFY1SjFmdVJ3UmNxUGFheURuaEg3RkxkOHpiLXlEOGRxaW5rTHNDMjVDLVNob2gwQWJZVFpiX0J5b2VYY2dqbW5DYS1vQjNka3R5Ml9MZ2dqS0s1N0lON09icl9BWEFiWDNNd2tJWmNHZ3ZYM0hMMVEzV1pFc2M3dG5Qci03Y3Bhb2dHUGNFRzJwdQ?oc=5",
           "source" : "경제 뉴스",
-          "summary" : "[특징주] 알테오젠, 美 약가협상 규정 확정에 15% 급락…SC 전환 수익성 우려 Chosunbiz [특징주] 알테오젠, 키트루다SC 특허분쟁 확대에 17%대 급락 브릿지경제 알테오젠, 美 약가협상 우려에 급락..20만원 붕괴 스마트투데이 알테오젠 키트루다SC, 유럽 위탁제조사도 특허소송 대상 PRESS9 알테오젠, 美 약가협상 규정 강화에 20%대 약세…52주 신저가 - 머니투데이 머니투데이",
+          "summary" : "[특징주] 알테오젠, 美 약가협상 규정 확정에 15% 급락…SC 전환 수익성 우려 Chosunbiz 알테오젠 키트루다SC, 유럽 위탁제조사도 특허소송 대상 PRESS9 [특징주] 알테오젠, 키트루다SC 특허분쟁 확대에 17%대 급락 브릿지경제 알테오젠, 美 약가협상 우려에 급락..20만원 붕괴 스마트투데이 알테오젠 美 약가인하 영향에 선긋기…“SC 기술 경쟁력 여전히 유효” 팜이데일리",
           "title" : "[특징주] 알테오젠, 美 약가협상 규정 확정에 15% 급락…SC 전환 수익성 우려 - Chosunbiz"
-        },
-        {
-          "date" : "2026-11-09T00:44:00Z",
-          "link" : "https:\/\/news.google.com\/rss\/articles\/CBMiV0FVX3lxTFBGSmpPblRsOUs2U0p2VllJRTNCbWRwSGNHSVRCbkZKRktHMG9jUWhKTTg1RUZKM29pVjhPQjNXY2ZHeG9hM09RclpEWU5jQnAydC16R2dGSQ?oc=5",
-          "source" : "경제 뉴스",
-          "summary" : "제일약품, 'BIO-Europe 2026' 참가…신약 후보물질 기술수출 추진 MEDI:GATE NEWS 고바이오랩, ‘바이오 유럽 2026’ 참가 뉴스타운 나이벡, 비만·심신장질환 신약 앞세워 글로벌 기술이전 추진 팜이데일리 제일약품, '바이오 유럽 2026'서 당뇨·항암 파이프라인 기술수출 타진 전자신문 알테오젠 전태연 대표, 바이오 유럽 참석…\"글로벌 파트너십 확장\" - 머니투데이 머니투데이",
-          "title" : "제일약품, 'BIO-Europe 2026' 참가…신약 후보물질 기술수출 추진 - MEDI:GATE NEWS"
         },
         {
           "date" : "2026-11-09T00:42:00Z",
@@ -197,10 +246,17 @@
           "title" : "HLB이노베이션, AI·스마트제조 지원사업 3건 선정 - MEDI:GATE NEWS"
         },
         {
+          "date" : "2026-11-09T00:38:53Z",
+          "link" : "https:\/\/news.google.com\/rss\/articles\/CBMiWkFVX3lxTFA1UTg1RnJoajRfZ1dGVWpFQlA1QkRwOXZBVE15WVpvR01QQnJVVk1SWFp4R3l1dlFxMVVGOWJYVlN3Y3FnR0NCS1RlNkl3aEhjQk8wOTJldkd5Zw?oc=5",
+          "source" : "경제 뉴스",
+          "summary" : "\"한화家 삼남이 또 돈 푼다더니\"…주가 10% 급등한 종목 한국경제 김동선, 한화M&S 보통주 4% 추가 공개매수…270억원 규모 연합뉴스 [ET특징주]한화M&S, 김동선 지분 추가 공개매수에 상승세 전자신문 ’언행일치’ 김동선, 주가 떨어지자 한화M&S에 또 사재 270억 투입 By EBN Investing.com 한국어 김동선, 지분 4% 추가 공개매수에…한화M&S 9%대 급등 뉴시스",
+          "title" : "\"한화家 삼남이 또 돈 푼다더니\"…주가 10% 급등한 종목 - 한국경제"
+        },
+        {
           "date" : "2026-11-09T00:29:02Z",
           "link" : "https:\/\/news.google.com\/rss\/articles\/CBMic0FVX3lxTFB1dHZWNUhoTlBUZ281Y1RZUHNvaWM0NUlkUXFuOUg4eW9HVFlUeWR6V19sS0dnX04xbW5NSlpmYWpla3MwRm1KSF9tcldrUGRlWkVqb1U3Zzg4aGZ4Z2Z0NEZIU2V4eElKbjQtUjBlT3JvZGc?oc=5",
           "source" : "경제 뉴스",
-          "summary" : "공공건축, 사용자가 설계할 때 생명력을 얻는다 헤드라인제주 부동산원, 설계공모 투명성 높인다…심사 이력 관리 강화 더팩트 부동산원, 공공건축 설계공모 공고·결과 '건축HUB'로 일원화 파이낸셜뉴스 부동산원, 공공건축 설계공모 개정 사항 설명회 진행 주간한국 “실무자 적극 지원”…부동산원, 공공건축 설계공모 제도 개정 설명회 매일경제",
+          "summary" : "공공건축, 사용자가 설계할 때 생명력을 얻는다 헤드라인제주 부동산원, 설계공모 투명성 높인다…심사 이력 관리 강화 더팩트 “실무자 적극 지원”…부동산원, 공공건축 설계공모 제도 개정 설명회 매일경제 부동산원, 공공건축 설계공모 공고·결과 '건축HUB'로 일원화 파이낸셜뉴스 부동산원, 공공건축 설계공모 개정 사항 설명회 진행 주간한국",
           "title" : "공공건축, 사용자가 설계할 때 생명력을 얻는다 - 헤드라인제주"
         },
         {
@@ -211,11 +267,11 @@
           "title" : "中 인민일보, 삼성 중국 사업 조명…“첨단산업 현지화” - 연합뉴스TV"
         },
         {
-          "date" : "2026-11-09T00:22:00Z",
-          "link" : "https:\/\/news.google.com\/rss\/articles\/CBMiW0FVX3lxTE5yVkNiVVdXdXh4ZmtONW5RZ2hyUG10bDZoVFkxRDJfTEhRRF9ZT0ROd0NKNDMzSkptemN3TXM1OXVDbjNNSTg4cmJOekVzb0syTFBzYTljaU96Z1k?oc=5",
+          "date" : "2026-11-09T00:23:06Z",
+          "link" : "https:\/\/news.google.com\/rss\/articles\/CBMiWkFVX3lxTE5vRTBCYW16c29IOHdEYWNwU0tKQ2JXV0hjSUpPWTVTTGVwX29LZFdMOVBlZlBhVzQ1UTFJdUo3SFoySk96bHNxVXd6ZlhHUVpMcUZKMFhDaGpuZw?oc=5",
           "source" : "경제 뉴스",
-          "summary" : "국방 AI 선도연구기관에 카이스트·ETRI·LG AI연구원 지정 KBS 뉴스 방사청, AI 분야 선도연구기관 ‘KAIST·ETRI·LG AI연구원’ 3곳 지정 문화일보 방산 AIDC 구축과 기술보호로 K-방산의 미래를 열다 보안뉴스 국방AI 선도기관에 KAIST·한국통신연구원·LG AI 연구원 지정 뉴스1 [사고] AI가 바꾸는 미래전장, 유무인 복합전투의 미래를 만나다 아주경제",
-          "title" : "국방 AI 선도연구기관에 카이스트·ETRI·LG AI연구원 지정 - KBS 뉴스"
+          "summary" : "\"한국 아이돌처럼 입고 싶어서\"…日 2030 쓸어담은 '패션템' 한국경제 일본 MZ 사로잡은 K스타킹…큐텐재팬 판매량 323% 급증 뉴시스 日 큐텐재팬서 K레그웨어 인기…K스타킹 판매량 급증 전자신문 이베이재팬, 'K스타킹' 판매량 4배 급증…日 레그웨어 시장 공략 뉴스1 일본 MZ듫 K-스타킹에 빠져, 수출 물량 4배 이상 급증 물류신문",
+          "title" : "\"한국 아이돌처럼 입고 싶어서\"…日 2030 쓸어담은 '패션템' - 한국경제"
         },
         {
           "date" : "2026-11-09T00:21:13Z",
@@ -225,60 +281,11 @@
           "title" : "셀트리온 ‘스테키마’ 유럽서 소아 장질환 적응증 확대 승인 권고 - 팜이데일리"
         },
         {
-          "date" : "2026-11-09T00:20:49Z",
-          "link" : "https:\/\/news.google.com\/rss\/articles\/CBMiYEFVX3lxTE9CTmhIdzJRMkFoeVdaeE1LTmF2UjhaakJhYmpiTkRjNlRtTXJSNk5RTjFodHZGOXpPRkJOeVRROHJuQm11LWYxS3d4SWdyVlU4NGgzNEs4RmR3T29tdm92OQ?oc=5",
+          "date" : "2026-11-08T23:50:00Z",
+          "link" : "https:\/\/news.google.com\/rss\/articles\/CBMiWEFVX3lxTE96bVBXQXRXTlRpdlpYMWZMZUJvdEFZSXg0ZWROajl0amJfSUIxWHBxNEp1N1JlR1dVVmlsVzFCU2tYMlRWNjZWa0pwc3p2NE1TYUdyV1pBQVI?oc=5",
           "source" : "경제 뉴스",
-          "summary" : "밤 10시 이후 '이것'도 하지 말라고?… 입주민 공지문에 누리꾼 갑론을박 아시아경제 “밤 10시 이후 샤워 피해달라” 아파트 입주민 주장 논란 중앙일보 \"밤 10시 이후 샤워가 민폐? 세탁기는 이해하지만\" 아파트 공지문 '시끌' 뉴스1 “밤 10시 이후 씻지도 말라고?”…아파트 공지문에 ‘시끌’ [잇슈#태그] KBS 뉴스 “밤 10시 이후 샤워 자제해달라”…아파트 입주민 글 ‘갑론을박’ 동아일보",
-          "title" : "밤 10시 이후 '이것'도 하지 말라고?… 입주민 공지문에 누리꾼 갑론을박 - 아시아경제"
-        },
-        {
-          "date" : "2026-11-09T00:09:18Z",
-          "link" : "https:\/\/news.google.com\/rss\/articles\/CBMicEFVX3lxTE9pcUJTYzJnVVB6c0RrZ3ZneC0xUl90Y0xBRXpvLUwzMzVqSDQ5QWw0WTAyTzUxSzZMYTFtamhrUTRESXFUT3FkNDZ0OEp1UkhSVDBDUU45LXAtNTMtZU1yZVJGUTVIZklXYVctNjFXLUs?oc=5",
-          "source" : "경제 뉴스",
-          "summary" : "[AIDC 투자 점검③] 빅테크 韓 투자 관심에도 전력망 걸림돌 연합인포맥스 LS머트리얼즈·LS일렉, 차세대 전력망 안정화 기술 공동 개발 연합뉴스 미국은 71% 반대, 한국은 70% 찬성... AI 데이터센터의 '숨겨진 청구서' [자막뉴스] YTN '뉴스1 미래에너지포럼' 11일 개최…AI 대변혁 시대, 전력 수요 해법을 찾다 뉴스1 LS머트리얼즈·LS일렉트릭, 차세대 전력망 기술 국산화 맞손 지디넷코리아",
-          "title" : "[AIDC 투자 점검③] 빅테크 韓 투자 관심에도 전력망 걸림돌 - 연합인포맥스"
-        },
-        {
-          "date" : "2026-11-09T00:06:00Z",
-          "link" : "https:\/\/news.google.com\/rss\/articles\/CBMiZ0FVX3lxTE9GRzZ2Mi1wYmlTRE9Gc0hWci1yYXdYTjA3UFVhaTRBem1FZVhEQjIzTUp5RUQxeGc0eTUwY2dxREV5dkZMWk45WmtkNmxNd1o4RTFBVWk1QV95RGxpeFIzSEk1RjVyb1U?oc=5",
-          "source" : "경제 뉴스",
-          "summary" : "4대 은행, 내년 정보보호예산 확대…1천억 이상 편성도 연합뉴스TV 4대 은행, 내년 정보보호 예산 '1000억 시대'…집행률·전문인력은 '빈틈' 전자신문 금융권 해킹·정보유출에 시중은행 보안투자 강화 천지일보 해킹 사고 잇따르자… 4대 은행 중 3곳, 내년 보안 예산 1000억원 넘긴다 조선일보 해킹 사태에 화들짝… 은행 보안예산 폭증 문화일보",
-          "title" : "4대 은행, 내년 정보보호예산 확대…1천억 이상 편성도 - 연합뉴스TV"
-        },
-        {
-          "date" : "2026-11-08T23:55:18Z",
-          "link" : "https:\/\/news.google.com\/rss\/articles\/CBMicEFVX3lxTFBDaEUxSXdobTJSa2ExU3c1bWFrRWN3eUdWR0NJLTJOX3BBLWtMRTlGUFF4eFhRdC1ULWttTjBLS1VxamVmRUtRYkZwLTlFbkhxeDB5YmhDaWdZRTFMa0lObnMwX19sUk1IbkppSXJVcG7SAXRBVV95cUxQQTVpOENoa0xYQXYybXFteW05V0k3Vkhmc1RtN0FrU3NycXRtNUlyOS14RFZodjNMcDhfVGdXMm1iSlhPcXBRdlRzR0ZYUXFaSkY2a0xlZXpzcmwxNFRVZ2x3OUlES1l3UF9iVklTOVlHeGJWWA?oc=5",
-          "source" : "경제 뉴스",
-          "summary" : "\"시장이 불안할 때 오히려 안심\"…캐시 우드, 기술주 폭락 '건강한 신호' 진단 연합인포맥스 '돈나무 누나' 캐시 우드 \"시장 급락? 오히려 좋아\"…이유는? 마켓인 캐시 우드 \"주식시장이 불안해할 때 기분이 좋아진다\"... 그 이유는? 글로벌이코노믹 ＂걱정 많을수록 상승장 길어진다＂… 캐시 우드가 꼽은 원픽은? [글로벌 IB 리포트] 한국경제TV \"개미들 공포에 떠는데\"…'돈나무 언니' 캐시 우드가 웃는 이유 한국경제",
-          "title" : "\"시장이 불안할 때 오히려 안심\"…캐시 우드, 기술주 폭락 '건강한 신호' 진단 - 연합인포맥스"
-        },
-        {
-          "date" : "2026-11-08T23:54:45Z",
-          "link" : "https:\/\/news.google.com\/rss\/articles\/CBMiWkFVX3lxTE85MWZjY0xWdWRPMGtoV2JVTXZyN05ISHZ0LTdMTFJzMnB5Z1hiRmJQUlZHSm5SQ3hlNWlWY1JZdWpnTmlEN2IyRHVHZmVwbURjbDkwR1gyZTNBUQ?oc=5",
-          "source" : "경제 뉴스",
-          "summary" : "'오늘은 오를까'…SK하이닉스 담은 1% 초고수들, 반등에 베팅 한국경제 '코스피 대탈출' 경고음…8조 던진 외국인 심상치 않다 한국경제 오를 땐 팔고 떨어지자 샀다…개미, 삼전하닉 집중 매수 매일경제 지난주 삼전닉스 7조 던진 외인...보유율도 최저 YTN 닷새 만에 10.4조 팔았다… 외국인 ‘셀 코리아’에 삼전 지분 17년 만에 최저 IT조선",
-          "title" : "'오늘은 오를까'…SK하이닉스 담은 1% 초고수들, 반등에 베팅 - 한국경제"
-        },
-        {
-          "date" : "2026-11-08T23:46:00Z",
-          "link" : "https:\/\/news.google.com\/rss\/articles\/CBMiWkFVX3lxTE9MNm83X1V3bS1kNFI5aVByQTJCOGRrNU9ka3ViODZ2YTlrUFdxMFQySzBhazdrSkhjd2tDNDFMUzhFUm1SWHNaOTlrajNPWFhaY1RfT1lpbTd2Zw?oc=5",
-          "source" : "경제 뉴스",
-          "summary" : "\"삼성전자 팔면 후회할까\"…20년 통계 봤더니 '놀라운 결과' [분석+] 한국경제 Google 뉴스에서 헤드라인 및 의견 더보기",
-          "title" : "\"삼성전자 팔면 후회할까\"…20년 통계 봤더니 '놀라운 결과' [분석+] - 한국경제"
-        },
-        {
-          "date" : "2026-11-08T23:42:00Z",
-          "link" : "https:\/\/news.google.com\/rss\/articles\/CBMicEFVX3lxTE9WZTM1cXQtTElkSk1DdVRkcy0yN1VJc0p1VFVFcWptOUtwOE9pendrZGdrTWR0MEkzblBXdGpyZDdFZ1hfRkE0bFJnYUxDSVJyT1o0WGF6RnlZRlgyOWNKVnhrTlVmajE0ZXFHUkw5OC0?oc=5",
-          "source" : "경제 뉴스",
-          "summary" : "젠슨 황 불륜 스캔들, 美 대중국 반도체 정책 변수 되나 연합인포맥스 젠슨황, 中스파이 의심 여성과 불륜 인정…이사회 독립조사 착수(종합) 연합뉴스 젠슨 황 스캔들에 흔들리는 엔비디아… 후계자 부재에 커지는 CEO 리스크 Chosunbiz “젠슨 황 불륜이면 주가 흔들릴 수도”…AI 낙관론자마저 엔비디아 ‘매도압력’ 매일경제 젠슨 황 “아내에 상처” 불륜 인정… 美, AI기술유출 ‘中미인계’ 조사 문화일보",
-          "title" : "젠슨 황 불륜 스캔들, 美 대중국 반도체 정책 변수 되나 - 연합인포맥스"
-        },
-        {
-          "date" : "2026-11-08T23:42:00Z",
-          "link" : "https:\/\/news.google.com\/rss\/articles\/CBMiZ0FVX3lxTE51eVltNzhTa093Y05xckF0ZnRudVRmRW1nYXdwMnFHNzVGazB3QldyZWJkYVlfVXN4T2hwVE1ERjdMMXo5WE9FWElQZWpPZGZ2UGZraWJLNDgzdFQxelVSQ3RaRUNTbnM?oc=5",
-          "source" : "경제 뉴스",
-          "summary" : "서울 아파트 84㎡ vs 59㎡ 가격차 ’1.7억원’…1년새 30%↓ 연합뉴스TV 서울 아파트 84㎡ vs 59㎡ 가격차 1억7천만원…1년새 30%↓ 연합뉴스 대출 한도 막히자 소형으로…서울 59㎡·84㎡ 가격 차 1억7천만원 경기일보 “좀더 보태면 국평 가는데”…대출 규제에 중소형 가격차 1.7억까지 좁혀져 매일경제 1억 원만 더 보태면 중형으로… 노도강·금관구 59㎡·84㎡ 가격 격차 실종 세계일보",
-          "title" : "서울 아파트 84㎡ vs 59㎡ 가격차 ’1.7억원’…1년새 30%↓ - 연합뉴스TV"
+          "summary" : "“좀더 보태면 국평 가는데”…대출 규제에 중소형 가격차 1.7억까지 좁혀져 매일경제 서울 아파트 84㎡ vs 59㎡ 가격차 1억7천만원…1년새 30%↓ 연합뉴스 대출 한도 막히자 소형으로…서울 59㎡·84㎡ 가격 차 1억7천만원 경기일보 \"1억만 더 보태면 국평 갈텐데\"…서울 집주인 고민하는 까닭 한국경제 대출 규제에 소형이 인기…서울 84㎡·59㎡ 가격차 1.7억으로 줄어 SBS Biz",
+          "title" : "“좀더 보태면 국평 가는데”…대출 규제에 중소형 가격차 1.7억까지 좁혀져 - 매일경제"
         },
         {
           "date" : "2026-11-08T23:40:00Z",
@@ -286,13 +293,6 @@
           "source" : "경제 뉴스",
           "summary" : "100대 기업 여성임원 비중 4년째 6%대…최다는 삼성전자 연합뉴스TV 올해 100대 기업 여성임원 491명…비중은 4년째 6%대 연합뉴스 100대 기업 여성 임원 491명…비중은 6%대 ’유리천장’ 여전 By EBN Investing.com 한국어 100대 기업 여성 임원 491명…여성 임원 보유 기업 첫 80곳 돌파 마켓인 삼성전자, 女 임원 수 1위…CJ제일제당은 5명 중 1명이 女 한경매거진",
           "title" : "100대 기업 여성임원 비중 4년째 6%대…최다는 삼성전자 - 연합뉴스TV"
-        },
-        {
-          "date" : "2026-11-08T23:39:24Z",
-          "link" : "https:\/\/news.google.com\/rss\/articles\/CBMi1gFBVV95cUxPbmFqX2hSTENjWUI0eGJrUnFTVlpuOS1pVTBpUjdzYzNiVjQxUFdPd2hTNXNiam5EZ0U3aDk4VEU1ZG4xN3VmNGZHN3RyZE4xb1B1dmFDUjcxZl9aRzBIT3VhSUxtNVBjWE0tak1rTUdhWk41MDZ0akRvY2ZyeW5RNHZZTzk4MzdLdU1wOUF0TnZvOThrWURZc1UwaUttN1BLQ3I3WFl0UUw3SFpteXhBNVo5cHFPeTBZQ0I2aFlVYnJtOXBvejIxN2M4WmlBREJjV3lKdHFn?oc=5",
-          "source" : "경제 뉴스",
-          "summary" : "베트남 인건비 4.5배 올랐지만…한국 진출기업 92% \"철수 안해\" 한국무역협회-KITA.NET Google 뉴스에서 헤드라인 및 의견 더보기",
-          "title" : "베트남 인건비 4.5배 올랐지만…한국 진출기업 92% \"철수 안해\" - 한국무역협회-KITA.NET"
         }
       ],
       "name" : "경제의 집",
@@ -314,11 +314,46 @@
       "isNew" : false,
       "items" : [
         {
+          "date" : "2026-11-09T04:00:43Z",
+          "link" : "https:\/\/news.google.com\/rss\/articles\/CBMiVkFVX3lxTFB1NlBpRVc0NTUzcmpSRUZ2bFlIa1FFWUZXTUl1dW9YcFV1bTNodVBjMHdjXzdET1lpMVhMNHJHR0xYVmVXbnNNNGo5RVIxdFlLcjF3Y0lB?oc=5",
+          "source" : "IT 뉴스",
+          "summary" : "中 렌즈테크놀로지, 연내 유리기판 양산라인 가동…\"韓기업과 협력 기대\" 지디넷코리아",
+          "title" : "中 렌즈테크놀로지, 연내 유리기판 양산라인 가동…\"韓기업과 협력 기대\" - 지디넷코리아"
+        },
+        {
+          "date" : "2026-11-09T03:15:17Z",
+          "link" : "http:\/\/mamememo.blogspot.com\/2010\/09\/qlobe.html",
+          "source" : "Hacker News",
+          "summary" : "Article URL: http:\/\/mamememo.blogspot.com\/2010\/09\/qlobe.html Comments URL: https:\/\/news.ycombinator.com\/item?id=50420599 Points: 6 # Comments: 0",
+          "title" : "The Qlobe: Rotating Quine (2010)"
+        },
+        {
+          "date" : "2026-11-09T03:02:05Z",
+          "link" : "https:\/\/news.google.com\/rss\/articles\/CBMiYEFVX3lxTE9vNTA4WV9rRzlaN2JKSzdyZ3d1Yk5JdDB1Rl80QWJDdTVHSzV0UXVqSjhXY0Q2NlZkOElGVDlvcjNsNVp0QmVZWHducTBiNi1FdHJxc2F3SkxweElUNlBwZtIBZkFVX3lxTE1IZU1OTWhKVm1JNEVzWGE2YV9GXzhtaEJTaXRoMjFtZ1lFbUl4Y25yUGxweHVKRFNMU3l1N3Z1cXBGOTh1VWJFYkFFeGVJWHZ4Um5mNW85TVl4ck0wZFpESHpZTUJfZw?oc=5",
+          "source" : "IT 뉴스",
+          "summary" : "비트코인 8만달러 안착 실패…맥글론, 위험자산 매도 가능성 토큰포스트",
+          "title" : "비트코인 8만달러 안착 실패…맥글론, 위험자산 매도 가능성 - 토큰포스트"
+        },
+        {
           "date" : "2026-11-09T02:52:20Z",
           "link" : "https:\/\/news.google.com\/rss\/articles\/CBMiakFVX3lxTE9za0ZhRHB3VTdDLV9WbFBvbVJySW5YSXFWUWdTb2ZVdk04czZSNHN4SWpleFl3YzFYVi10OVJRMDIyemZKTXRsN3JhSkFGcExZdWl3MXJaTUxvX3BZeUJiVUN6RlMyTkdiTkE?oc=5",
           "source" : "IT 뉴스",
           "summary" : "오픈AI, '이미지 2.6' 프롬프트 가이드 공개…\"바꿀 것·유지할 것 구분\" AI타임스",
           "title" : "오픈AI, '이미지 2.6' 프롬프트 가이드 공개…\"바꿀 것·유지할 것 구분\" - AI타임스"
+        },
+        {
+          "date" : "2026-11-09T02:46:21Z",
+          "link" : "https:\/\/maurycyz.com\/misc\/email\/",
+          "source" : "Hacker News",
+          "summary" : "Article URL: https:\/\/maurycyz.com\/misc\/email\/ Comments URL: https:\/\/news.ycombinator.com\/item?id=50420383 Points: 9 # Comments: 1",
+          "title" : "A Bit about Email"
+        },
+        {
+          "date" : "2026-11-09T01:58:21Z",
+          "link" : "https:\/\/aphyr.com\/posts\/427-rip-harvest",
+          "source" : "Hacker News",
+          "summary" : "Article URL: https:\/\/aphyr.com\/posts\/427-rip-harvest Comments URL: https:\/\/news.ycombinator.com\/item?id=50420035 Points: 92 # Comments: 31",
+          "title" : "RIP, Harvest"
         },
         {
           "date" : "2026-11-09T01:16:17Z",
@@ -380,29 +415,36 @@
           "date" : "2026-11-09T00:10:50Z",
           "link" : "https:\/\/shubs.io\/unlocking-any-car-from-x-brand-in-most-of-the-world\/",
           "source" : "Hacker News",
-          "summary" : "Article URL: https:\/\/shubs.io\/unlocking-any-car-from-x-brand-in-most-of-the-world\/ Comments URL: https:\/\/news.ycombinator.com\/item?id=50419215 Points: 53 # Comments: 22",
+          "summary" : "Article URL: https:\/\/shubs.io\/unlocking-any-car-from-x-brand-in-most-of-the-world\/ Comments URL: https:\/\/news.ycombinator.com\/item?id=50419215 Points: 147 # Comments: 52",
           "title" : "Unlocking any car from X brand in most of the world"
         },
         {
-          "date" : "2026-11-08T23:56:03Z",
-          "link" : "https:\/\/news.google.com\/rss\/articles\/CBMiVkFVX3lxTFB1NlBpRVc0NTUzcmpSRUZ2bFlIa1FFWUZXTUl1dW9YcFV1bTNodVBjMHdjXzdET1lpMVhMNHJHR0xYVmVXbnNNNGo5RVIxdFlLcjF3Y0lB?oc=5",
+          "date" : "2026-11-09T00:10:13Z",
+          "link" : "https:\/\/news.google.com\/rss\/articles\/CBMiWEFVX3lxTE1MekhDdm9hR09Rc1lBTGRDTVFmRUJjVnVsS2VHU1pVbWRRcWMxbHdSNFJnZmlMbEQ5bC1FYVVfVFhuR29KTzBYSE5ldzJRUG1KOWl4NUJJcELSAV5BVV95cUxOaksxcGJUUmpQbkMtbTRvc0tDVnRnemxnZDk3OUVoQmZaS3VFQ1hkR0Npb21iVC04ODNZLU40cFFBLVU3RG9ZbHRKOWFiSHZVcXJFUWFhTlYzNTNiZ1p3?oc=5",
           "source" : "IT 뉴스",
-          "summary" : "中 렌즈테크놀로지, 연내 유리기판 양산라인 가동…\"韓기업과 협력 기대\" 지디넷코리아",
-          "title" : "中 렌즈테크놀로지, 연내 유리기판 양산라인 가동…\"韓기업과 협력 기대\" - 지디넷코리아"
+          "summary" : "XRP 연말 2달러 확률 하루 새 5%p 내려…예측시장 9% 토큰포스트",
+          "title" : "XRP 연말 2달러 확률 하루 새 5%p 내려…예측시장 9% - 토큰포스트"
+        },
+        {
+          "date" : "2026-11-09T00:00:04Z",
+          "link" : "https:\/\/news.google.com\/rss\/articles\/CBMiSkFVX3lxTE1hNVBRbE51RWRsLUVfZDZxV2xRWXlxakRLeGdPVWs4VDNIYVNUQzJRd1hJblFZRExtbzZmM1VuRE0ybXFvQm5LeFRR?oc=5",
+          "source" : "IT 뉴스",
+          "summary" : "[GN#383] AI가 다른 AI의 머릿속을 고쳤다 GeekNews",
+          "title" : "[GN#383] AI가 다른 AI의 머릿속을 고쳤다 - GeekNews"
         },
         {
           "date" : "2026-11-08T23:44:36Z",
           "link" : "https:\/\/matteoraso.github.io\/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
           "source" : "Hacker News",
-          "summary" : "Article URL: https:\/\/matteoraso.github.io\/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists Comments URL: https:\/\/news.ycombinator.com\/item?id=50418975 Points: 19 # Comments: 6",
-          "title" : "I'm Not Convinced the AI Bubble Exists"
+          "summary" : "Article URL: https:\/\/matteoraso.github.io\/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists Comments URL: https:\/\/news.ycombinator.com\/item?id=50418975 Points: 81 # Comments: 114",
+          "title" : "I'm not convinced the AI bubble exists"
         },
         {
           "date" : "2026-11-08T23:28:01Z",
           "link" : "https:\/\/isocpp.org\/files\/papers\/P4454R0.pdf",
           "source" : "Hacker News",
-          "summary" : "Article URL: https:\/\/isocpp.org\/files\/papers\/P4454R0.pdf Comments URL: https:\/\/news.ycombinator.com\/item?id=50418818 Points: 62 # Comments: 41",
-          "title" : "Herb Sutter: When a language's creator and its owners strongly disagree [pdf]"
+          "summary" : "Article URL: https:\/\/isocpp.org\/files\/papers\/P4454R0.pdf Comments URL: https:\/\/news.ycombinator.com\/item?id=50418818 Points: 93 # Comments: 75",
+          "title" : "When a language's creator and its owners strongly disagree [pdf]"
         },
         {
           "date" : "2026-11-08T23:20:51Z",
@@ -410,6 +452,13 @@
           "source" : "IT 뉴스",
           "summary" : "미 10월 CPI 10일 발표…비트코인 물가 헤지 효과는 조건부 토큰포스트",
           "title" : "미 10월 CPI 10일 발표…비트코인 물가 헤지 효과는 조건부 - 토큰포스트"
+        },
+        {
+          "date" : "2026-11-08T22:56:05Z",
+          "link" : "https:\/\/news.google.com\/rss\/articles\/CBMiT0FVX3lxTE9aejUyUkJUNVBXM2ZfRHdqb1NmeWlnbUNoUmtPNWJ3dlQ2dHd6LTRpX0ZLYnVFNFhYbkJvVzdsdjVjdzVQSEdhR05RZWlNVmc?oc=5",
+          "source" : "IT 뉴스",
+          "summary" : "[기자수첩] 리센느 착시 빠진 엔터 펀딩 딜사이트",
+          "title" : "[기자수첩] 리센느 착시 빠진 엔터 펀딩 - 딜사이트"
         },
         {
           "date" : "2026-11-08T22:55:15Z",
@@ -436,36 +485,22 @@
           "date" : "2026-11-08T22:36:03Z",
           "link" : "https:\/\/chimera-vocal-synth.vercel.app\/",
           "source" : "Hacker News",
-          "summary" : "Article URL: https:\/\/chimera-vocal-synth.vercel.app\/ Comments URL: https:\/\/news.ycombinator.com\/item?id=50418182 Points: 88 # Comments: 14",
+          "summary" : "Article URL: https:\/\/chimera-vocal-synth.vercel.app\/ Comments URL: https:\/\/news.ycombinator.com\/item?id=50418182 Points: 140 # Comments: 21",
           "title" : "Chimera Vocal Synth"
         },
         {
           "date" : "2026-11-08T22:35:35Z",
           "link" : "https:\/\/ketchup3d.github.io\/app\/",
           "source" : "Hacker News",
-          "summary" : "Article URL: https:\/\/ketchup3d.github.io\/app\/ Comments URL: https:\/\/news.ycombinator.com\/item?id=50418176 Points: 202 # Comments: 50",
+          "summary" : "Article URL: https:\/\/ketchup3d.github.io\/app\/ Comments URL: https:\/\/news.ycombinator.com\/item?id=50418176 Points: 304 # Comments: 85",
           "title" : "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU"
         },
         {
           "date" : "2026-11-08T22:20:09Z",
-          "link" : "https:\/\/www.axios.com\/2026\/11\/08\/nvidia-ceo-jensen-huang-affair-email-to-company",
+          "link" : "https:\/\/nvidianews.nvidia.com\/news\/a-message-to-our-company",
           "source" : "Hacker News",
-          "summary" : "Article URL: https:\/\/www.axios.com\/2026\/11\/08\/nvidia-ceo-jensen-huang-affair-email-to-company Comments URL: https:\/\/news.ycombinator.com\/item?id=50418016 Points: 351 # Comments: 368",
+          "summary" : "https:\/\/www.axios.com\/2026\/11\/08\/nvidia-ceo-jensen-huang-aff... , https:\/\/archive.ph\/Hxn5h https:\/\/www.nytimes.com\/2026\/11\/06\/us\/politics\/chinese-spy-a... , https:\/\/archive.ph\/atMcp Comments URL: https:\/\/news.ycombinator.com\/item?id=50418016 Points: 416 # Comments: 449",
           "title" : "Nvidia CEO Jensen Huang's letter to staff about affair"
-        },
-        {
-          "date" : "2026-11-08T22:15:00Z",
-          "link" : "https:\/\/news.google.com\/rss\/articles\/CBMigwFBVV95cUxPQ2k4cEg4bVlWVFFVTU1PeFVBOFNGaFhBTVlQRkU0N3dqaFMwOW9ETE4tY3ZpeTBncy03RHM0bjVFSFFrb1IyclNIa1JpYk5LbUFmTnZpX3kxMUxmcDZKMjVKUkJ4bjI2dkN5ZHNTUjF6RE9pM0xTeVR5OXlFQXpLUmxqTQ?oc=5",
-          "source" : "IT 뉴스",
-          "summary" : "젠슨 황 \"아내에게 불충실했다\" 中 간첩 의심녀와 불륜 인정 조선일보",
-          "title" : "젠슨 황 \"아내에게 불충실했다\" 中 간첩 의심녀와 불륜 인정 - 조선일보"
-        },
-        {
-          "date" : "2026-11-08T22:06:50Z",
-          "link" : "https:\/\/news.google.com\/rss\/articles\/CBMiWEFVX3lxTE9ia0lybjA1ZmJhUm01NDVjcnFGWFpRZm9TZ1F4MHBHdWZxUzVyQTliSk1EMHA3ZWJoaWxSdnQyb1AtZk1lOU11RTlaVmMxNzg2dVk4akdhQkjSAV5BVV95cUxPVjM2SHYyUXdETlN3OVdfbWtoOGVpcWNIek11QWk4TTJNcDNkZUlCRENYRTl0Y0lBcWJiRzF4dFVGUk1OcFhYNTdhSE1mSEg0YWZ1NUh6ekVsSklaQnJR?oc=5",
-          "source" : "IT 뉴스",
-          "summary" : "솔라나, 1시간 새 2.49% 급락해 86.88달러 토큰포스트",
-          "title" : "솔라나, 1시간 새 2.49% 급락해 86.88달러 - 토큰포스트"
         },
         {
           "date" : "2026-11-08T22:00:00Z",
@@ -475,10 +510,24 @@
           "title" : "Apps to distract you from the endless cycle of doomscrolling"
         },
         {
+          "date" : "2026-11-08T22:00:00Z",
+          "link" : "https:\/\/news.google.com\/rss\/articles\/CBMiS0FVX3lxTE5DU2V3NWFaRDhqSU45RVY3bWF3dlMwMHNEc3BCNGpncWJwN3NKeFJiWnVSOVBwTnNuaWdDMjJLTmtoREl1M2tCYUxEOA?oc=5",
+          "source" : "IT 뉴스",
+          "summary" : "LG전자, '로봇 두뇌' 키우는 데이터팩토리 본격 가동⋯내년 50만시간 확보 아이뉴스24",
+          "title" : "LG전자, '로봇 두뇌' 키우는 데이터팩토리 본격 가동⋯내년 50만시간 확보 - 아이뉴스24"
+        },
+        {
+          "date" : "2026-11-08T21:25:00Z",
+          "link" : "https:\/\/news.google.com\/rss\/articles\/CBMiU0FVX3lxTFBtU3hnYzQxWTBQenBxdFBkSm1vREJHX0lPWUpIaVl3dG85ajUzcFpmS2ZPS1RxQnRFdklIX0dOZ0F5OURzTmhPUENHX0JVZHZ1MWlR?oc=5",
+          "source" : "IT 뉴스",
+          "summary" : "젠슨 황, 中첩자 의혹女와 불륜 시인…\"아내에 불충실했다\" 네이트",
+          "title" : "젠슨 황, 中첩자 의혹女와 불륜 시인…\"아내에 불충실했다\" - 네이트"
+        },
+        {
           "date" : "2026-11-08T21:20:20Z",
           "link" : "https:\/\/news.ycombinator.com\/item?id=50417407",
           "source" : "Hacker News",
-          "summary" : "What are you working on? What have you been curious about lately? Comments URL: https:\/\/news.ycombinator.com\/item?id=50417407 Points: 127 # Comments: 472",
+          "summary" : "What are you working on? What have you been curious about lately? Comments URL: https:\/\/news.ycombinator.com\/item?id=50417407 Points: 165 # Comments: 562",
           "title" : "Ask HN: What are you working on? (November 2026)"
         },
         {
@@ -517,13 +566,6 @@
           "title" : "Coordinated disturbances haunt grids worldwide. Here’s how researchers solved the mystery."
         },
         {
-          "date" : "2026-11-08T20:26:43Z",
-          "link" : "https:\/\/nvidianews.nvidia.com\/news\/statement-from-nvidia-board-of-directors",
-          "source" : "Hacker News",
-          "summary" : "Article URL: https:\/\/nvidianews.nvidia.com\/news\/statement-from-nvidia-board-of-directors Comments URL: https:\/\/news.ycombinator.com\/item?id=50416801 Points: 384 # Comments: 298",
-          "title" : "Nvidia Board of Directors Is Investigating Jensen Huang"
-        },
-        {
           "date" : "2026-11-08T20:22:39Z",
           "link" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1029562\/nvidia-investigating-jensen-huang-relationship-chinese-spy",
           "source" : "The Verge",
@@ -538,17 +580,10 @@
           "title" : "Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board"
         },
         {
-          "date" : "2026-11-08T19:49:46Z",
-          "link" : "https:\/\/www.spacex.com\/launches\/starship-flight-15",
-          "source" : "Hacker News",
-          "summary" : "Article URL: https:\/\/www.spacex.com\/launches\/starship-flight-15 Comments URL: https:\/\/news.ycombinator.com\/item?id=50416471 Points: 92 # Comments: 54",
-          "title" : "Starship Flight 15 on 11\/13 plans to catch both booster and ship"
-        },
-        {
           "date" : "2026-11-08T19:48:32Z",
           "link" : "https:\/\/ftrain.com\/aboard-the-web-is-more-than-enough",
           "source" : "Hacker News",
-          "summary" : "Article URL: https:\/\/ftrain.com\/aboard-the-web-is-more-than-enough Comments URL: https:\/\/news.ycombinator.com\/item?id=50416456 Points: 77 # Comments: 39",
+          "summary" : "Article URL: https:\/\/ftrain.com\/aboard-the-web-is-more-than-enough Comments URL: https:\/\/news.ycombinator.com\/item?id=50416456 Points: 100 # Comments: 55",
           "title" : "The Web Is More Than Enough, by Paul Ford"
         },
         {
@@ -557,41 +592,6 @@
           "source" : "IT 뉴스",
           "summary" : "골드만 삭스, 은행원과 트레이더의 Claude Code 사용 제한 GeekNews",
           "title" : "골드만 삭스, 은행원과 트레이더의 Claude Code 사용 제한 - GeekNews"
-        },
-        {
-          "date" : "2026-11-08T19:37:42Z",
-          "link" : "https:\/\/sergeykuhne.com\/blog\/fighting-ai-brain-fry",
-          "source" : "Hacker News",
-          "summary" : "Article URL: https:\/\/sergeykuhne.com\/blog\/fighting-ai-brain-fry Comments URL: https:\/\/news.ycombinator.com\/item?id=50416363 Points: 155 # Comments: 130",
-          "title" : "How I Fight AI Brain Fry"
-        },
-        {
-          "date" : "2026-11-08T19:20:32Z",
-          "link" : "https:\/\/mailroute.net\/blog\/outlook-rejecting-email-without-dmarc",
-          "source" : "Hacker News",
-          "summary" : "Article URL: https:\/\/mailroute.net\/blog\/outlook-rejecting-email-without-dmarc Comments URL: https:\/\/news.ycombinator.com\/item?id=50416158 Points: 247 # Comments: 188",
-          "title" : "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC"
-        },
-        {
-          "date" : "2026-11-08T19:18:19Z",
-          "link" : "https:\/\/www.theverge.com\/ai-artificial-intelligence\/1029552\/apple-siri-ai-agentic",
-          "source" : "The Verge",
-          "summary" : "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. While Federighi has delivered a functional version of Siri AI on an incredibly sho",
-          "title" : "Apple is racing to make Siri more agentic"
-        },
-        {
-          "date" : "2026-11-08T19:08:51Z",
-          "link" : "https:\/\/duxlabs.dev\/",
-          "source" : "Hacker News",
-          "summary" : "Article URL: https:\/\/duxlabs.dev\/ Comments URL: https:\/\/news.ycombinator.com\/item?id=50416053 Points: 201 # Comments: 61",
-          "title" : "Dux: Free, open-source Wayland desktop shell with file manager and theming"
-        },
-        {
-          "date" : "2026-11-08T19:04:07Z",
-          "link" : "https:\/\/serd.es\/2026\/11\/08\/playing-with-stm32mp2.html",
-          "source" : "Hacker News",
-          "summary" : "Article URL: https:\/\/serd.es\/2026\/11\/08\/playing-with-stm32mp2.html Comments URL: https:\/\/news.ycombinator.com\/item?id=50416014 Points: 37 # Comments: 28",
-          "title" : "Playing with the STM32MP2"
         }
       ],
       "name" : "테크의 집",
@@ -655,7 +655,7 @@
           "title" : "Medicare Advantage vs. Traditional Medicare, Explained"
         },
         {
-          "date" : "2026-11-08T21:48:22Z",
+          "date" : "2026-11-08T21:48:23Z",
           "link" : "https:\/\/www.nytimes.com\/2026\/11\/07\/business\/economy\/nvidia-chips-chinese-firms.html",
           "source" : "NYT Business",
           "summary" : "The Commerce Department has approved dozens of Chinese companies to handle Nvidia’s H200 chips, some of which have ties to firms under sanctions over national security.",
@@ -1211,18 +1211,67 @@
       "isNew" : false,
       "items" : [
         {
-          "date" : "2026-11-09T03:08:00Z",
+          "date" : "2026-11-09T03:57:19Z",
+          "link" : "https:\/\/news.google.com\/rss\/articles\/CBMilwFBVV95cUxOd3BYc2x0RXdyajFQeGR3N1l5ZzFRS1JMbEV0emsxRFV0WWZ2Q3FvZUdHcmg4Nml2UHdadk1yaDQxdVRTMzZaY2QxMEI1Tm83WEtmV1VqNkhSMGlkTGFTdWVKYWsyMmEzNVZnLXl0T2ZTb0ttay13dXgzam11VHExaE9hUnF2VFVpRlc1OEdlSUNEVzZtQ1dV?oc=5",
+          "source" : "Markets",
+          "summary" : "Why is ANZ stock sliding today? Investing.com",
+          "title" : "Why is ANZ stock sliding today? - Investing.com"
+        },
+        {
+          "date" : "2026-11-09T03:50:37Z",
+          "link" : "https:\/\/news.google.com\/rss\/articles\/CBMizwFBVV95cUxOUXlrWGlMQ1d0YkFUZE0xZDlVVXJYcEJGRXRBLWhEYmZPT3ByNmd5SUhEQm5Dcnl3djZvMlctMzhEOTVDa2NXQXlha2FnODdMRFA2d2JkQnJxMDc1RDRXMkRxdzZaLTFzaHg0WWU1RVlSVXBoQ2ZINjNmdVpvcWhPTjBwSnpPV0tmbEpxNDZtV042cDkyYi1kY1FubFBXT3c5Q0NBaUJkSDVtMlY1Y1l0TTU3U2ZLSVB2UXd3TUR3QXpoQkdRVWVaelZ3YUdzS1k?oc=5",
+          "source" : "Markets",
+          "summary" : "Stock Market Today: Sensex, Nifty trade lower; IT stocks drag, Banking shares offer support Zee Business",
+          "title" : "Stock Market Today: Sensex, Nifty trade lower; IT stocks drag, Banking shares offer support - Zee Business"
+        },
+        {
+          "date" : "2026-11-09T03:46:41Z",
+          "link" : "https:\/\/news.google.com\/rss\/articles\/CBMi2wFBVV95cUxOZmxRSVlEM2EzLVNFZjNYSjlPMG9ONXZVOGJoQ3BJMkJEZWU5Y2Q5MklUVDl3ZGVwemNuTG1IVWtrbTFCRDJHTEpnZmZNWnVDcTVFZmtJYjdreno3RlVCRWVMbjJuMGUyZldEeUNjUWVCTXRDSkMwaFE0WE1CbkdFT0hxTmVLMTZFWVBxMHlZYXhFZFhRNTVIaVVfV19Md0VHQ1N1SXp5dkRabjN0M3lOTHE4WWNEVkJqRFkyOXRaNEN4c05qSHdpaEFJU00td3REU0RBUUFOUnZWSHfSAeMBQVVfeXFMUE1vNVZkR0pETG9lU0JzR2VNVVhMcFRtMVZwTEJnenQ5NGIwRlh3LUhFVlZCYllKQVhtcXNUNkw1dlFGMzFBM0pPYldOcExJdHd6alJZS2h4ODdSZVNOYmNXQk9USGdRSEhFZFplcGdLcnhfLWVjLUFvLTJpSHlsU0FZZzJLTVoxbE5yQ1gxT04ybUQzTmo0YkhTWlpJR1BaWVoyZWRXV2RBT2ZFYWVPMGcwaVZEdFRxc0VzTXRJT0toeHJVWFk5MEtZWkxzTHNDNjgtZEpCY2Y3WnhnZmdrLThzNEE?oc=5",
+          "source" : "Markets",
+          "summary" : "Stock Market Today: Sensex Drops, Nifty 50 Around 24,900; HCL Tech, Infosys, TCS Top Drags NDTV Profit",
+          "title" : "Stock Market Today: Sensex Drops, Nifty 50 Around 24,900; HCL Tech, Infosys, TCS Top Drags - NDTV Profit"
+        },
+        {
+          "date" : "2026-11-09T03:33:15Z",
+          "link" : "https:\/\/news.google.com\/rss\/articles\/CBMirgFBVV95cUxPMi1XTWRKMWRNQ3lRNDFrRzN4MG96U1JCRnhkUk9ITlI4aXJnNGRkYlBuN1dsMUdsSTgtaEJ4Nm1IanR4ZVFwZ0FINENPX3daOV8xbDRueEo1bEwyWkZ4aG84cGQ5emx0UmtaSDRUQ1FYVEI1bEotX0dPeHlmZEtYVDJIN2JKbGpGVEUzRWVCMTNSN2J3SjE1X3pMdkZDTXhiUnZJU2lHNmNfM21UT2fSAbYBQVVfeXFMTnJjOTJmY1kyU2NVV3BHT3g5Q3UzdHVKNC1aY3RobUZzZTRMSkVKNDdHNC1FbkFTOG1PVGZ6Zl80U1RscUp4dHhlbURVXzE3NGdrVWJwSmRjY29OX1NNMWRNNkVzQzA4eHIteDl0NEttVmxYcE85NHM2OXFkV0NCR2hHRkFxNkVsQ0FjVUxSRjJYdEg3aTBuZzhkcW90Q3FlRkxURm0tS2hPcXN4d0pnRVE3RG1SS0E?oc=5",
+          "source" : "Markets",
+          "summary" : "Stock Market Today: All You Need To Know Going Into Trade On Nov 9 NDTV Profit",
+          "title" : "Stock Market Today: All You Need To Know Going Into Trade On Nov 9 - NDTV Profit"
+        },
+        {
+          "date" : "2026-11-09T03:32:59Z",
+          "link" : "https:\/\/news.google.com\/rss\/articles\/CBMihAJBVV95cUxNczEtb1ViQVN1XzJWN1JOMVBnZVNRQklzMzNxcW0xS20xTkVtSXh6YkFiNDJBYWFoQzNiazV2SUlab05UWWx1aUs0ZHdvLTVSVWxTVXR3TGVEaUp2dWhyLWNNTFRMOFFnaV9vNVlZeHU2ZjlBMmE5S0pEMlY1ZElkTlN2SlFBT25uanJ1c1FRdkwxWUtqbjNCVzF4cEd4bnVUTnhSdzIyNFU4VEVaRGIyMG9lYUUxT096Nk13eUgybWNuUFhWRkdHQVNOLTJFZkJXTHJucVhDeVRlNGRHbUpkWV85QlBLVWd2clRjTW80NEdWWExPLWsyOGh5TzNQRU4zdVp5bQ?oc=5",
+          "source" : "Markets",
+          "summary" : "Sensex & Nifty 50 | Stock Market Live Updates Today: GIFT Nifty Signals Positive Start, Q2 Earnings and FII Flows in Focus Trade Brains",
+          "title" : "Sensex & Nifty 50 | Stock Market Live Updates Today: GIFT Nifty Signals Positive Start, Q2 Earnings and FII Flows in Focus - Trade Brains"
+        },
+        {
+          "date" : "2026-11-09T03:31:00Z",
+          "link" : "https:\/\/news.google.com\/rss\/articles\/CBMid0FVX3lxTE5FVDc3UlZHcHBOWVJmWWs2YWxla3J5NkpsVmNlTERMM2lQNm1MdlRteDEyeUFGcGFKVHEzV0JGalFMZXlvV3o2R3dmb2dGWUh5WlpMOWxiYkdlb1c1RzB4WlNhQzRoTF9qM3lfaUlKeUhqQUFtWkdj?oc=5",
+          "source" : "Markets",
+          "summary" : "Stock futures rise slightly as investors eye AI trade, brace for more data and earnings: Live updates CNBC",
+          "title" : "Stock futures rise slightly as investors eye AI trade, brace for more data and earnings: Live updates - CNBC"
+        },
+        {
+          "date" : "2026-11-09T03:24:00Z",
           "link" : "https:\/\/news.google.com\/rss\/articles\/CBMiuAFBVV95cUxQQ0hGNFB0QTUyUUxKc2F4M2x6bVg4TERkVlF5ak9TbTAtTzN2U3IzaE1NNmFET1FJLUdsYnNvUWxaNm5iZHJtRmkyX0Fmb1dEanFlMGkyZzZSRDZhWHplTnRBVDRpOXlYZkRUNU51bVFWbEF6bnFwa1NOMEx6Nkt4UnhfYUtmQ1VFWlpyaVNCVm5peWhMYkRmeVhuaUc4QWZ2ckE0U1JUOXh4ZVl3dk1NTWlIT1dDZlhR?oc=5",
           "source" : "Markets",
           "summary" : "Dow Jones Futures Rise As Nvidia Probes CEO Jensen Huang Spying Case Investor's Business Daily",
           "title" : "Dow Jones Futures Rise As Nvidia Probes CEO Jensen Huang Spying Case - Investor's Business Daily"
         },
         {
+          "date" : "2026-11-09T02:57:00Z",
+          "link" : "https:\/\/news.google.com\/rss\/articles\/CBMikAFBVV95cUxONFZ2RXF4UWI1T2l1bkNKYWgxVXo0cGFSd2Z3YW1QVHFQcVhyNEpkU0xhdHg1NFJFVmlVLXZCenZyWEdQUm81MF85RUZuT3VaXzA2WmFfR3VNZDJ1UndEcmw5R0oyQlJ1NGdmYnVMYU1ZcXprQi00dWlUMmlkVXNJSlpiV3M2ektlaEN1MkdEWnE?oc=5",
+          "source" : "Markets",
+          "summary" : "Why Did DKNG, SOUN, ORCL Stocks Plunge To 52-Week Lows Last Week? Yahoo Finance",
+          "title" : "Why Did DKNG, SOUN, ORCL Stocks Plunge To 52-Week Lows Last Week? - Yahoo Finance"
+        },
+        {
           "date" : "2026-11-09T02:53:00Z",
           "link" : "https:\/\/news.google.com\/rss\/articles\/CBMilAFBVV95cUxQR1JWME4tcFN3Vlh6UlhVeEN3c2FlRUFkUWRrczJ6OUZ1QWRkRndtMy1nZFhBaU5Lc0dzaXU2ZjJnNUtwN2RSa3dyLXlwUV9QanZmaC1Wb2xhbUVZekZhaXdXZkpSazFDVnJqZWIweWtvdGczQi0xTnB1aEhiSy00aVFsMWdYaE1sRkN3NlU2YmVJdzhv?oc=5",
           "source" : "Markets",
-          "summary" : "Asian Markets at Risk of Pressure on Nvidia Probe: Markets Wrap Bloomberg",
-          "title" : "Asian Markets at Risk of Pressure on Nvidia Probe: Markets Wrap - Bloomberg"
+          "summary" : "Asian Markets at Risk of Pressure on Nvidia Probe: Markets Wrap Bloomberg.com",
+          "title" : "Asian Markets at Risk of Pressure on Nvidia Probe: Markets Wrap - Bloomberg.com"
         },
         {
           "date" : "2026-11-09T02:52:21Z",
@@ -1237,13 +1286,6 @@
           "source" : "Markets",
           "summary" : "Stock market: HSBC upgrades India to 'Overweight', cuts China rating to 'Neutral'; here's why Business Today",
           "title" : "Stock market: HSBC upgrades India to 'Overweight', cuts China rating to 'Neutral'; here's why - Business Today"
-        },
-        {
-          "date" : "2026-11-09T02:36:00Z",
-          "link" : "https:\/\/news.google.com\/rss\/articles\/CBMid0FVX3lxTE5FVDc3UlZHcHBOWVJmWWs2YWxla3J5NkpsVmNlTERMM2lQNm1MdlRteDEyeUFGcGFKVHEzV0JGalFMZXlvV3o2R3dmb2dGWUh5WlpMOWxiYkdlb1c1RzB4WlNhQzRoTF9qM3lfaUlKeUhqQUFtWkdj?oc=5",
-          "source" : "Markets",
-          "summary" : "Stock futures rise slightly as investors eye AI trade, brace for more data and earnings: Live updates CNBC",
-          "title" : "Stock futures rise slightly as investors eye AI trade, brace for more data and earnings: Live updates - CNBC"
         },
         {
           "date" : "2026-11-09T02:34:42Z",
@@ -1279,13 +1321,6 @@
           "source" : "Markets",
           "summary" : "South Korea's opposition blames Lee government for stock plunge upi",
           "title" : "South Korea's opposition blames Lee government for stock plunge - upi"
-        },
-        {
-          "date" : "2026-11-08T23:30:01Z",
-          "link" : "https:\/\/news.google.com\/rss\/articles\/CBMirgFBVV95cUxPMi1XTWRKMWRNQ3lRNDFrRzN4MG96U1JCRnhkUk9ITlI4aXJnNGRkYlBuN1dsMUdsSTgtaEJ4Nm1IanR4ZVFwZ0FINENPX3daOV8xbDRueEo1bEwyWkZ4aG84cGQ5emx0UmtaSDRUQ1FYVEI1bEotX0dPeHlmZEtYVDJIN2JKbGpGVEUzRWVCMTNSN2J3SjE1X3pMdkZDTXhiUnZJU2lHNmNfM21UT2fSAbYBQVVfeXFMTnJjOTJmY1kyU2NVV3BHT3g5Q3UzdHVKNC1aY3RobUZzZTRMSkVKNDdHNC1FbkFTOG1PVGZ6Zl80U1RscUp4dHhlbURVXzE3NGdrVWJwSmRjY29OX1NNMWRNNkVzQzA4eHIteDl0NEttVmxYcE85NHM2OXFkV0NCR2hHRkFxNkVsQ0FjVUxSRjJYdEg3aTBuZzhkcW90Q3FlRkxURm0tS2hPcXN4d0pnRVE3RG1SS0E?oc=5",
-          "source" : "Markets",
-          "summary" : "Stock Market Today: All You Need To Know Going Into Trade On Nov 9 NDTV Profit",
-          "title" : "Stock Market Today: All You Need To Know Going Into Trade On Nov 9 - NDTV Profit"
         },
         {
           "date" : "2026-11-08T23:05:00Z",
@@ -1386,13 +1421,6 @@
           "title" : "[주간증시전망]폭락했던 美 나스닥 진정세…코스피, 이번주 반등할까 - 뉴시스"
         },
         {
-          "date" : "2026-11-07T18:58:51Z",
-          "link" : "https:\/\/news.google.com\/rss\/articles\/CBMingFBVV95cUxOVDdGMFZHelJOMTk5MG1qM05Hbjg1UWxtdjNmYklBZ3Z2cWlRZ0dtbnF4aXNTdzVsZU9oMkZrYjk3VGhCNGVoMjNhdm9wdXM5dHJpVVBQOHRzZUhqN01TdmxGTnNUWTJJYU9DRGRUQmpWLXRsRXJNdERkSDUwYldTdGN3MmVIYmh3OUYzZy15NjlwY1ZNaWRyUE05V3dsZw?oc=5",
-          "source" : "Markets",
-          "summary" : "Buy This Stock Today, Delete Your Brokerage App, and Check It in 10 Years Yahoo Finance",
-          "title" : "Buy This Stock Today, Delete Your Brokerage App, and Check It in 10 Years - Yahoo Finance"
-        },
-        {
           "date" : "2026-11-07T14:02:00Z",
           "link" : "https:\/\/news.google.com\/rss\/articles\/CBMilwFBVV95cUxNTHBMLU5Ib01MRTVuSl83MXVSMVRnSFpjNHp6ajBQU1pmZzRtOFpsSFhkRGV2enFLMzM0RjNxdEhMdlBRMEtSUks0UzZGazh6QkJ4UmdLSGhMVjctQ0lCbkt4V0gwQi05SWdndGl6SVRDNk5XZ0FZLXFGQmlPMjRScWNIdVFnZWM5UTBCTFJTY2dELUcyX1hv?oc=5",
           "source" : "Markets",
@@ -1412,13 +1440,6 @@
           "source" : "Markets",
           "summary" : "Why Northwest Natural Holding (NWN) Is Getting Attention Today Yahoo Finance",
           "title" : "Why Northwest Natural Holding (NWN) Is Getting Attention Today - Yahoo Finance"
-        },
-        {
-          "date" : "2026-11-07T09:16:31Z",
-          "link" : "https:\/\/news.google.com\/rss\/articles\/CBMimAFBVV95cUxQMzloTFA5STk2SVVseng5bm1QQ3NBZ3Q0dk9IdUtwX0xDSjhWbEp1QkZpaTNZcDFNTDcwUzhWeHV1WjRCLWo0XzBPRldfTE1MODdRYk1nb2NUMFlLTHpvUGdKTTJsRTJMSWFDbXBEWDJOajk1LU81VUlGUWNjYkhtNVBOcmNfQ0pSUzJVOE5ISXNYdFdnWjExZA?oc=5",
-          "source" : "Markets",
-          "summary" : "Kontron (XTRA:KTN) Stock Looks Below Fair Value on Current Earnings Yahoo Finance",
-          "title" : "Kontron (XTRA:KTN) Stock Looks Below Fair Value on Current Earnings - Yahoo Finance"
         },
         {
           "date" : "2026-11-07T06:28:32Z",
@@ -1456,13 +1477,6 @@
           "title" : "Did the Stock Market Crash Today? Nasdaq Rebounds After $2.5 Trillion Selloff as Dow Futures Signal Volatility - finchannel"
         },
         {
-          "date" : "2026-11-06T22:37:00Z",
-          "link" : "https:\/\/news.google.com\/rss\/articles\/CBMiwAFBVV95cUxOWS1CUGRkOWhJQ3NnaUlpS3ktVElZaTNQb1ZGTDRVY0pycGtPZUhCTV8wd1lxanNYUk5JOFpfcXRNNnhmVHJadmtfQUhfUW5ZVDlwaDZUdGNDYVNEVTlEcUxSQUxOSVlmY3Nkal9rSnJ3T1REcEoxMWV1T2R2dTUwS2VTSFRqZHl2WnhpZFdvNlQ4VXJkVEtYU0hBb3p4dFlKd2JZTUNZNzhZOHVsODNCbU5lY3VPTXVzVFNtRnZQZHc?oc=5",
-          "source" : "Markets",
-          "summary" : "Stock Market Up, Still Suffers Stiff Weekly Loss; Inflation Data, CoreWeave Earnings Due Investor's Business Daily",
-          "title" : "Stock Market Up, Still Suffers Stiff Weekly Loss; Inflation Data, CoreWeave Earnings Due - Investor's Business Daily"
-        },
-        {
           "date" : "2026-11-06T22:36:00Z",
           "link" : "https:\/\/news.google.com\/rss\/articles\/CBMi6AFBVV95cUxQN1lkVnhOdnViWks4LWJlZ2VXd3hQcTdwRVlWeVhpam55VVRpMEtRd0V1alpxbU9Tc2JMZ0NKQjR0X1VyQjROZFVKSUFTREVYQmU1cVFZbC1tTng5MGYwbXVaSnJ4QTVYTkNYR3hkYmNyX194NjFiLVBhazRPUlVNc0JWcVJFb0RTaHdaVXAxY2RKREQzQWczSjhEZzIybWladW01UXpmWGZXVEhKMFJLY1E2QmVESzk5a09saVJGZkZOR1ZOcEFld0lqT2pZeXZ2a3Z3ak9JdjhJRy1BbjN5Nm0td2daN204?oc=5",
           "source" : "Markets",
@@ -1475,20 +1489,6 @@
           "source" : "Markets",
           "summary" : "Stock Market Today, Nov. 6: AMD Surges 11% on Record Quarterly Revenue and Stronger Growth Outlook The Motley Fool",
           "title" : "Stock Market Today, Nov. 6: AMD Surges 11% on Record Quarterly Revenue and Stronger Growth Outlook - The Motley Fool"
-        },
-        {
-          "date" : "2026-11-06T21:59:10Z",
-          "link" : "https:\/\/news.google.com\/rss\/articles\/CBMiyAFBVV95cUxQczRsWEFTT09RbmU4ZGVBX1lFYlBqdTdJREZ3OGFvaHJuSkMzYk4yWE1wQmx4SnhoV2lTMnB6TW52ZmR6ZHVlN0x6UjQwWUNicHYwN1ZhX3U0Qll1S0dJanBCdG9QNGVDOVd5VkR3RmcxRVZBdHB0ZVFZRzdkdkZTWVg2SFZ0QTNjUm1GUGlJcGhkbnlqbG11TTU3RFhKTXl3dnc1ZXlZT2txYUlsa3ZKdVA4TkE5OHJ4VkZCaGhqVnRuUThUaHZSTQ?oc=5",
-          "source" : "Markets",
-          "summary" : "Stock market today: Nasdaq and S&P 500 rebound, Dow slips to cap bruising week for AI stocks Yahoo Finance",
-          "title" : "Stock market today: Nasdaq and S&P 500 rebound, Dow slips to cap bruising week for AI stocks - Yahoo Finance"
-        },
-        {
-          "date" : "2026-11-06T21:58:00Z",
-          "link" : "https:\/\/news.google.com\/rss\/articles\/CBMizgFBVV95cUxORzFfb18wQVhXQUk1R3FHQVJiU2tnZXRjXzVhM1Q1ZE13YkFQMWlSdl9XM2psTEJ5bTRzRG1oVjQybm9PVzNLQ0ozMHgxTmQweFJKSkFzT09iZXdldjQ5OTN6blAzUTBlR3Q0bzYtZnNCZ0hmQ1JSODlnWnJnNmdCdXZ5NXhPUmZ5TmVESE4zaW9iSHhIOVJwemswTUE3T2x5QzBxY2xHaFFrTGREUmN4WWJLZkd5eUF4bkVJNDdId0dnR3BEZkdSajJncTdNQQ?oc=5",
-          "source" : "Markets",
-          "summary" : "Stock Market Today, Nov. 6: Iren Soars 20% on Strong AI Cloud Revenue Growth The Motley Fool",
-          "title" : "Stock Market Today, Nov. 6: Iren Soars 20% on Strong AI Cloud Revenue Growth - The Motley Fool"
         }
       ],
       "name" : "증권의 집",
@@ -1507,21 +1507,49 @@
       "color" : "#2E2A38",
       "emoji" : "🔬",
       "id" : "chip",
-      "isNew" : false,
+      "isNew" : true,
       "items" : [
+        {
+          "date" : "2026-11-09T04:09:00Z",
+          "link" : "https:\/\/news.google.com\/rss\/articles\/CBMiXEFVX3lxTE83N2RjVGJBSGhSckZ2cTZtTXFnUThXWWZ2b1BwTFB0UGxPbHB5TTczSG1aOVpJdFZJa21pakpGNjZfeWFuMzh3QVV2V280VVhPMW1RRmwzMDQ1cno0?oc=5",
+          "source" : "반도체 뉴스",
+          "summary" : "현물 팔고 공매도도 늘린 외국인…급락장서 거래대금 5조원대 뉴스핌",
+          "title" : "현물 팔고 공매도도 늘린 외국인…급락장서 거래대금 5조원대 - 뉴스핌"
+        },
+        {
+          "date" : "2026-11-09T03:54:15Z",
+          "link" : "https:\/\/news.google.com\/rss\/articles\/CBMia0FVX3lxTFBCa2tkcmIwV3dPX1M4c0NaWlQxLWNHeEUtWnUtMXpnandGdEJmMUZWTzExamM0ME1IM1RvT2M1X0wzYWFxYlRFQ0FGWldWa3pzM1hsTUg3d0s1ell2dXRPdHpZT21oTGE0d3VB?oc=5",
+          "source" : "반도체 뉴스",
+          "summary" : "젠슨 황 리더십 변수 부상…삼성·SK하이닉스, 엔비디아 공급망 파장 주시 뉴스인",
+          "title" : "젠슨 황 리더십 변수 부상…삼성·SK하이닉스, 엔비디아 공급망 파장 주시 - 뉴스인"
+        },
+        {
+          "date" : "2026-11-09T03:34:23Z",
+          "link" : "https:\/\/news.google.com\/rss\/articles\/CBMia0FVX3lxTE5YUW56OHdZUWFvZFRDdmxUMC1IZFFXOVZ6d2xJQ3V5ejR0dUh3bWlKbEhwTHJtRGZfclJzbm9aX09KUzZJQW5DSF94aUJXTExDX1puTkFnNnZqUVM0RndtaDhqS3VDcHFpclEw?oc=5",
+          "source" : "반도체 뉴스",
+          "summary" : "HBM 경쟁에 바뀐 반도체 인사…SK·삼성, 美 사업 기술통 전진 배치 뉴스저널리즘",
+          "title" : "HBM 경쟁에 바뀐 반도체 인사…SK·삼성, 美 사업 기술통 전진 배치 - 뉴스저널리즘"
+        },
+        {
+          "date" : "2026-11-09T02:41:00Z",
+          "link" : "https:\/\/news.google.com\/rss\/articles\/CBMibEFVX3lxTE1tejJpTGxnWUZvdjFNTjNwZDdMMDFlNEFSeHFBZFFzUWVWZWlBMFR4dGgxeHdoRG9OS3BFUEw5Y2Y2V3hEZTFHMVhwTHRpWDlHc3RWQ3BoUWJqQm1RTEJ4UjQ5eFNJYWM1NWFHbQ?oc=5",
+          "source" : "반도체 뉴스",
+          "summary" : "코스피 극적 반등.. 삼성전자·SK하이닉스 쌍두마차 질주 > 뉴스 지데일리",
+          "title" : "코스피 극적 반등.. 삼성전자·SK하이닉스 쌍두마차 질주 > 뉴스 - 지데일리"
+        },
+        {
+          "date" : "2026-11-09T02:38:41Z",
+          "link" : "https:\/\/news.google.com\/rss\/articles\/CBMiWEFVX3lxTE9lVWxBZml5dVBWVEJoVnZNWnUzOTlUcFFOTkdIRTh3WXpnVEEyUzVNZ0p4MzNyaW93SkZhX2lQd2Q5ME9JYTBTUWs0ZFBmd1RLOUJPa0t4c20?oc=5",
+          "source" : "반도체 뉴스",
+          "summary" : "젠슨 황 리스크 불거진 엔비디아…삼성·SK HBM 공급망 긴장 더트래커",
+          "title" : "젠슨 황 리스크 불거진 엔비디아…삼성·SK HBM 공급망 긴장 - 더트래커"
+        },
         {
           "date" : "2026-11-09T02:09:38Z",
           "link" : "https:\/\/news.google.com\/rss\/articles\/CBMiUEFVX3lxTE5TZ3lXWC1XNGwwQWlueUNPRVBzcnF0Z3QxWVh1OXc5dE9rRDNxMmFDQWRBNk1KR2wwLTZwZ0o2SjNJbHRrZ0g3ZjRyYWlLSl9N?oc=5",
           "source" : "반도체 뉴스",
           "summary" : "코스피, 기관 매수세에 5110선 회복…삼성전자·SK하이닉스 강세 블루밍비트",
           "title" : "코스피, 기관 매수세에 5110선 회복…삼성전자·SK하이닉스 강세 - 블루밍비트"
-        },
-        {
-          "date" : "2026-11-09T02:00:56Z",
-          "link" : "https:\/\/news.google.com\/rss\/articles\/CBMickFVX3lxTE1DVGJ3UG4taVl1R19ZY2tES0VWQ3pEemh1NG05OHFVYzRyMFdYb3hYTHpxVFV6QXFud0JDZFZmNnVDN0hUMFpFcDJQdm9sZ2t2ay1ZdHRmcnJjUnZ6NUw2dDNoU2Jmb2E0WHRFTzBnbnFQUQ?oc=5",
-          "source" : "반도체 뉴스",
-          "summary" : "[속보] 코스피, 1%대 오름세로 상승탄력 강화…삼전닉스 3∼5%↑ 스페셜타임스",
-          "title" : "[속보] 코스피, 1%대 오름세로 상승탄력 강화…삼전닉스 3∼5%↑ - 스페셜타임스"
         },
         {
           "date" : "2026-11-09T01:43:03Z",
@@ -1699,13 +1727,6 @@
           "title" : "SK하이닉스·삼성전자, 미주총괄에 '기술통' 배치…맞춤형 HBM 수주 대응 - 싱글리스트"
         },
         {
-          "date" : "2026-11-08T21:44:00Z",
-          "link" : "https:\/\/news.google.com\/rss\/articles\/CBMibEFVX3lxTE5vNXJjOTNwSHhoMnVuWmJsSEhZRGtra1dEMkRHQmZTZFE4UzRUa2VQWlFfNUtJZzNnLXpGM01EQVItMEl5X1JfVV8ySGV0WGZhQ1B6VUpxUHZhV2theTVwZUZndjdEMjZVaW9seg?oc=5",
-          "source" : "반도체 뉴스",
-          "summary" : "코스피, 폭락 멈추고 반등하나.. 삼성전자·SK하이닉스에 쏠린 눈 > 뉴스 지데일리",
-          "title" : "코스피, 폭락 멈추고 반등하나.. 삼성전자·SK하이닉스에 쏠린 눈 > 뉴스 - 지데일리"
-        },
-        {
           "date" : "2026-11-08T21:09:00Z",
           "link" : "https:\/\/news.google.com\/rss\/articles\/CBMiW0FVX3lxTE9TNGZadXV1ZXJKcXVOZElYV3dmRURyYmoyeFVXc3Z1TExyWTFYMWg1aG5ER3dMNl91bnBjVWxtTlVRbmRZZlB1eFFudWI0YVo2TklrQnBVMnJSbkHSAWBBVV95cUxOMDRpaE5VMkVkX1pFRHh2YWRubmNzN1VwREdubGFoV3dXY0dYNzF0eFBic2Y5VUZLYi1xS0FqaFNvQmRJZlFkT3dId3JfYjVOQ1ljU0I1RjZjam5hSHdnX24?oc=5",
           "source" : "반도체 뉴스",
@@ -1767,27 +1788,6 @@
           "source" : "반도체 뉴스",
           "summary" : "\"35% 공제 놓칠라\"… 삼성·SK하닉, 美 반도체 투자 '연말 시계' 빨라진다 파이낸셜포스트",
           "title" : "\"35% 공제 놓칠라\"… 삼성·SK하닉, 美 반도체 투자 '연말 시계' 빨라진다 - 파이낸셜포스트"
-        },
-        {
-          "date" : "2026-11-08T08:57:00Z",
-          "link" : "https:\/\/news.google.com\/rss\/articles\/CBMikgFBVV95cUxNeUNIQTc1VjVsamdFdUE3OEozbHNEZkd0Z25fTWVsWXR6LUc3YWIybk5TTXp0UkxWNDRrVEt3cDgtRmEzT3c2UmdJSlNXY0Q0UFVsejhNU2U2OHhjZzA1aTZFekJBamVRaUV1dnlXbFhwVDU0SHlHaWlLZXdLQjNUZmRKME14WnJNeWk4UzZZQnFIdw?oc=5",
-          "source" : "Semiconductors",
-          "summary" : "AI Boom Makes Chip Packaging a New Battleground Technology Org",
-          "title" : "AI Boom Makes Chip Packaging a New Battleground - Technology Org"
-        },
-        {
-          "date" : "2026-11-08T08:53:05Z",
-          "link" : "https:\/\/news.google.com\/rss\/articles\/CBMiUkFVX3lxTFBWcVdnSnpiSVphZ1VnMjczRHpFSlNDNWpDb2NnWDltQ1A4R0syaXR1MGxEYmhRVUtTdWlINGlWWWFRb2RSUUs2azdmSU5lbW9LMnfSAVNBVV95cUxOSk1kc0lJcnp1a0FKMUtJMmFWRGxwYVA4OFptQVJmX3I2eEN0MVViNXVBN1Q2aE91aWdPYmEzNG5HVFVPN20xelF1c0Y1T3l5YlY2UQ?oc=5",
-          "source" : "반도체 뉴스",
-          "summary" : "[단독]작업·충전·생산 스케줄 연결…10년 묵은 ‘로봇 규격화’ 급물살 [로보 인사이트] 서울경제",
-          "title" : "[단독]작업·충전·생산 스케줄 연결…10년 묵은 ‘로봇 규격화’ 급물살 [로보 인사이트] - 서울경제"
-        },
-        {
-          "date" : "2026-11-08T08:38:21Z",
-          "link" : "https:\/\/news.google.com\/rss\/articles\/CBMiWkFVX3lxTFBQZU1Ncl9qODB6NHpsYVl0RGhHdndOaEFZU2ctc3I1N0VTWGl4Ynl5UXQ1T1hoSEs2eXZOSzlIN3ZFSzhaa2pFRXlQbUVZSzA4YnZ5NkdCOXg4UQ?oc=5",
-          "source" : "반도체 뉴스",
-          "summary" : "美선거에 결과에 희비…삼전닉스 떨고 '이 업종'은 웃었다 한국경제",
-          "title" : "美선거에 결과에 희비…삼전닉스 떨고 '이 업종'은 웃었다 - 한국경제"
         }
       ],
       "name" : "반도체의 집",
@@ -1823,11 +1823,11 @@
     "economy",
     "philosophy"
   ],
-  "updated" : "2026-11-09T04:15:39Z",
+  "updated" : "2026-11-09T04:30:44Z",
   "weather" : {
     "code" : 1,
     "isDay" : true,
-    "temp" : 10.8
+    "temp" : 11.1
   },
   "weatherPlace" : "서울"
 }
