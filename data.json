@@ -12,7 +12,7 @@
       "color" : "#7B5CD6",
       "emoji" : "🪙",
       "id" : "economy",
-      "isNew" : true,
+      "isNew" : false,
       "items" : [
         {
           "date" : "2026-11-09T04:17:10Z",
@@ -1823,7 +1823,7 @@
     "economy",
     "philosophy"
   ],
-  "updated" : "2026-11-09T04:31:48Z",
+  "updated" : "2026-11-09T04:31:55Z",
   "weather" : {
     "code" : 1,
     "isDay" : true,
