@@ -610,7 +610,7 @@
       "color" : "#D9485F",
       "emoji" : "📊",
       "id" : "consulting",
-      "isNew" : true,
+      "isNew" : false,
       "items" : [
         {
           "date" : "2026-11-09T07:02:15Z",
@@ -1834,7 +1834,7 @@
     "economy",
     "philosophy"
   ],
-  "updated" : "2026-11-09T09:18:35Z",
+  "updated" : "2026-11-09T09:21:48Z",
   "weather" : {
     "code" : 0,
     "isDay" : false,
