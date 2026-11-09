@@ -909,7 +909,7 @@
       "color" : "#1F2A44",
       "emoji" : "📜",
       "id" : "philosophy",
-      "isNew" : true,
+      "isNew" : false,
       "items" : [
         {
           "date" : "2026-11-09T06:27:11Z",
@@ -1208,7 +1208,7 @@
       "color" : "#4FB3E8",
       "emoji" : "📈",
       "id" : "stock",
-      "isNew" : true,
+      "isNew" : false,
       "items" : [
         {
           "date" : "2026-11-09T09:05:35Z",
@@ -1518,7 +1518,7 @@
       "color" : "#2E2A38",
       "emoji" : "🔬",
       "id" : "chip",
-      "isNew" : true,
+      "isNew" : false,
       "items" : [
         {
           "date" : "2026-11-09T09:04:44Z",
@@ -1834,7 +1834,7 @@
     "economy",
     "philosophy"
   ],
-  "updated" : "2026-11-09T09:14:33Z",
+  "updated" : "2026-11-09T09:15:21Z",
   "weather" : {
     "code" : 0,
     "isDay" : false,
