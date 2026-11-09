@@ -1208,7 +1208,7 @@
       "color" : "#4FB3E8",
       "emoji" : "📈",
       "id" : "stock",
-      "isNew" : true,
+      "isNew" : false,
       "items" : [
         {
           "date" : "2026-11-09T03:08:00Z",
@@ -1823,7 +1823,7 @@
     "economy",
     "philosophy"
   ],
-  "updated" : "2026-11-09T04:08:30Z",
+  "updated" : "2026-11-09T04:15:22Z",
   "weather" : {
     "code" : 1,
     "isDay" : true,
